@@ -401,6 +401,11 @@ Zákon zároveň omezuje možnost měnit tyto plány: změny lze iniciovat **pou
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [66 A 6/2024 - 687](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739722) — 23. 1. 2025
+  > „Cílem novely naopak nebylo sjednotit veškerou územně plánovací dokumentaci do podoby odpovídající vyhlášce č. 500/2006 Sb. Ostatně nový stavební zákon v § 322 odst. 1 účinnost územních plánů schválených před 1. 1. 2007 akceptuje až do 31. 12. 2028. Zjevně nebylo cílem zákonodárce zamezit jakýmkoliv změnám územního plánu schváleného před 1. 1. 2007 … Ani nový stavební zákon tedy za účelem zveřejnění úplného znění explicitně nevyžaduje, aby byly územní plány schválené před 1. 1. 2007 nejdříve přepracovány do podoby vyžadované právní úpravou po tomto datu"
+
 #### „Předlistopadová" dokumentace — zánik do konce roku 2028 (odst. 1)
 
 Územně plánovací dokumentace schválená před 1. lednem 2007 (tj. dokumentace vydaná ještě za platnosti starého stavebního zákona č. 50/1976 Sb.) je nejstarší vrstvou plánování, která v praxi přežívá v mnoha obcích dodnes. § 322 jí stanoví **pevnou konečnou lhůtu**: pozbude platnosti nejpozději **31. prosince 2028**, nebo dříve, nahradí-li ji nová dokumentace.
@@ -734,6 +739,11 @@ Osoby, které ke dni **31. prosince 2023** vykonávaly funkci autorizovaného in
 > *(Soudní řízení zahájená přede dnem nabytí účinnosti tohoto zákona se dokončí podle dosavadních právních předpisů.)*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Nad 157/2024 - 59](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/736160) — 1. 11. 2024
+  > „Kontinuitou a z ní plynoucím zúročením nabyté expertízy není myšlena pouze absence „dočasné deaktivace“ již existující výlučné místní příslušnosti … Znamená spíše, že pokud míra nesrozumitelnosti technického práva dosáhne takové úrovně, že připouští více výkladových možností, pak bude upřednostněna ta, která lépe vystihuje systematiku a smysl celé úpravy, jak by ji patrně zákonodárce zvolil, kdyby se jednalo o … zákonodárce racionálního … který … opomene odpovídajícím způsobem rovněž upravit znění § 331"
 
 #### Dokončení soudních řízení dle starého práva
 

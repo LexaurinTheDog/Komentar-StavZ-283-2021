@@ -174,6 +174,11 @@ Zavedení speciální zkratky odráží požadavky unijního práva (směrnice E
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 277/2024 - 37](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/744278) — 13. 8. 2025
+  > „Stavební zákon 1976 (ani jeho prováděcí vyhláška č. 85/1976 Sb.) jako stavby nevylučoval objekty, které byly na místě smontovány, ani objekty, které byly určitým stavitelským postupem zhotoveny či sestaveny mimo staveniště a na místo případně dopraveny a tam instalovány. … Skutečnost, že stavební zákon 1976 či prováděcí vyhláška č. 85/1976 Sb. explicitně nepracovaly s pojmem výrobku plnícího funkci stavby, jak tomu je v § 2 odst. 3 stavebního zákona 2006 ve znění od 1. 1. 2013 a v § 5 odst. 1 zákona č. 283/2021 Sb., stavební zákon, na tom nic nemění. Doplnění legální definice stavby v pozdějších úpravách bylo zjevně jen zpřesněním definice, nikoli jejím rozšířením"
+
 #### Definice stavby — kontinuita s dosavadní praxí
 
 Definice stavby v odst. 1 je věcně shodná s definicí ve StavZ 2006 (§ 2 odst. 3 StavZ 2006). Zákon vymezuje stavbu třemi znaky:
@@ -302,6 +307,11 @@ Tato úprava navazuje na rostoucí regulaci reklamy ve veřejném prostoru a rea
 > *Terénní úpravou se v tomto zákoně rozumí zemní práce a změny terénu, jimiž se podstatně mění vzhled prostředí nebo odtokové poměry, těžební a jim podobné a s nimi související práce, nejde-li o hornickou činnost nebo činnost prováděnou hornickým způsobem.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 110/2025 - 59](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/747804) — 11. 12. 2025
+  > „… ve stavebním zákoně se nepoužije, pokud to stanoví stavební zákon nebo zvláštní zákon [srov. např. právě § 8 stavebního zákona, který sám vylučuje svou aplikovatelnost na hornickou činnost nebo činnost prováděnou hornickým způsobem, popř. právní úprava stanovení dobývacího prostoru dle § 27 zákona č. 44/1988 Sb., o ochraně a využití nerostného bohatství (horní zákon) …]"
 
 #### Terénní úprava jako zvláštní kategorie záměru
 
@@ -470,6 +480,13 @@ Veřejně prospěšná **opatření** jsou nestavební (typicky pozemkové úpra
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [52 A 57/2023 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/717946) — 29. 11. 2023
+  > „… že „prolukou se rozumí pozemek určený k zástavbě domem ve stávající souvislé zástavbě, tj. řadě pozemků, na kterých stojí domy, včetně volného nároží ulic“ … Tato soudy a správními orgány bez výhrad dlouhodobě akceptovaná definice, která vychází ze starších právních předpisů, technických norem a odborné literatury …, je pak užita i v novém stavebním zákoně [srov. § 12 písm. o) zákona č. 283/2021 Sb., stavební zákon, dle kterého se stavební prolukou rozumí nezastavěný prostor ve stávající souvislé zástavbě, včetně nezastavěného nároží, který je určen k zastavění]"
+- *NSS* [52 A 41/2022 - 59](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/705789) — 19. 10. 2022
+  > „Tato soudy a správními orgány bez výhrad dlouhodobě akceptovaná definice, která vychází ze starších právních předpisů, technických norem a odborné literatury …, je pak užita i v novém stavebním zákoně [srov. § 12 písm. o) zákona č. 283/2021 Sb., stavební zákon, dle kterého se stavební prolukou rozumí nezastavěný prostor ve stávající souvislé zástavbě, včetně nezastavěného nároží, který je určen k zastavění]"
+
 #### Rozsáhlý slovník pojmů územního plánování
 
 § 12 je rozsahově nejobsáhlejší definicí zákona a zahrnuje 23 pojmů (písm. a) až w)). Přináší výrazně komplexnější a propracovanější terminologický aparát než § 2 StavZ 2006, z části přejímá tamní pojmy a z části přidává pojmy nové, odrážející systémové změny.
@@ -595,6 +612,11 @@ Zahrnutí tohoto pojmu do části první (pojmy) zdůrazňuje systémový charak
 > *- h) dozorem projektanta průběžný odborný dozor nad souladem realizace dokumentace pro provádění záměru s dokumentací o povolení záměru a nad prováděním záměru v souladu s dokumentací pro provedení záměru.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [37 A 58/2025 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/769548) — 15. 1. 2026
+  > „… „postavení stavebníka“ implikuje procesní postavení osoby, která pro sebe žádá vydání povolení záměru nebo odstranění stavby, zařízení nebo terénní úpravy [viz definice pojmu stavebník v § 14 písm. a) zákona č. 283/2021 Sb., stavební zákon]"
 
 #### Katalog osob zúčastněných na výstavbě
 

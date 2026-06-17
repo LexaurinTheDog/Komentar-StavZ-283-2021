@@ -600,6 +600,11 @@ Odst. 2 odkazuje na systém **stanovených výrobků** podle nařízení vlády 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [41 Af 6/2025 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/744980) — 22. 8. 2025
+  > „§ 154 odst. 1 zákona č. 283/2021 Sb., stavebního zákona, … řeší systém stavebně technické prevence, nikoli užívání staveb"
+
 #### Funkce systému stavebně technické prevence
 
 § 154 zakládá **systém evidování vad a havárií staveb** — jde o preventivní nástroj, jehož cílem je systematicky shromažďovat poznatky o příčinách závažných poruch, aby bylo možné zlepšovat technické normy a prováděcí předpisy a předcházet opakování stejných problémů. Systém je vedený ministerstvem pro místní rozvoj (příp. pověřenou organizací) a napájí se povinnými oznámeními dle § 169 (viz níže).

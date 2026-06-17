@@ -22,6 +22,13 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 As 1/2024 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/724186) — 22. 8. 2024
+  > „územní plánování je prostředkem k harmonizaci poměrů na území jím regulovaném a umožňuje sladit veřejný zájem (včetně veřejného zájmu přesahujícího dimenze regulovaného území) s individuálními zájmy týkajícími se daného území. […] Oběma formami činnosti veřejné správy se určují pravidla, která umožňují racionalizované využití určitého statku (ať již území nebo rádiového spektra), za současného zohlednění protichůdných zájmů a potřeb dotčených subjektů, popř. veřejnosti (srov. […] § 18 zákona č. 183/2006 Sb., resp. § 38 zákona č. 283/2021 Sb.)"
+- *NSS* [10 As 191/2025 - 73](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/768677) — 14. 1. 2026
+  > „odpůrce je povinen při územním plánování zajistit kompromis při uspokojení různých zájmů, mezi které bezesporu patří i zájem na zajištění dostatečné sítě pozemních komunikací […]. Proto také zákon jako jeden z cílů územního plánování vytyčil zvyšování kvalitu vystavěného prostředí sídel, rozvíjení jejich identity a vytváření funkčního a harmonického prostředí pro každodenní život jejich obyvatel (§ 38 odst. 3 zákona č. 283/2021 Sb., stavebního zákona)"
+
 #### Trojpilířový koncept udržitelného rozvoje území (odst. 1)
 
 § 38 odst. 1 zakotvuje základní programovou normu celé Části třetí. Zákon definuje cíl územního plánování skrze dvě složky: (i) **provozní cíl** — soustavně a komplexně řešit funkční využití území a stanovovat zásady jeho funkčního a prostorového uspořádání, a (ii) **strategický cíl** — vytvářet předpoklady pro **udržitelný rozvoj území**.
@@ -765,6 +772,11 @@ Pořizovatel je procesním koordinátorem a prvním arbitrem: řeší rozpory je
 > *(6) Účelnost dalšího trvání vymezení územní rezervy pořizovatel vždy vyhodnotí podle § 107 odst. 2 písm. a).*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [66 A 2/2026 - 33](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/781032) — 19. 3. 2026
+  > „Nelze však opomíjet, že už samotné vymezení rezervy vlastníkovi brání v jakýchkoliv změnách v území, které by mohly stanovené využití podstatně ztížit nebo znemožnit (§ 23b odst. 4 stavebního zákona, resp. nový § 56 odst. 5 zákona č. 283/2021 Sb., stavební zákon), snižuje hodnotu pozemků a vytváří dlouhodobou nejistotu vlastníka. […] ‚Samotné umístění územní rezervy bude často dostatečně (a tedy v souladu s požadavkem proporcionality) odůvodněno tím, že je uvažováno o využití území a prozatím proto bude vhodné dané území ‚blokovat' do doby, než bude připravena podrobnější dokumentace'"
 
 #### Funkce územní rezervy — odložené posuzování záměru
 

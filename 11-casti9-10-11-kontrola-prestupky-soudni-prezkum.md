@@ -718,6 +718,11 @@ Odst. 3 rozšiřuje pojem „stavba" pro účely Části desáté i na **terénn
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [51 A 84/2025 - 27](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/780589) — 23. 1. 2026
+  > „zmiňovaným subjektům nepřísluší postavení osoby zúčastněné ex lege ve smyslu § 305 zákona č. 283/2021 Sb., stavebního zákona, neboť předmětem tohoto soudního řízení není žaloba proti rozhodnutí stavebního úřadu, jakkoli je zde úzká souvislost s konkrétním stavebním záměrem"
+
 #### Procesní postavení ve správním soudnictví
 
 § 305 zakládá **obligatorní postavení osoby zúčastněné na řízení** pro stavebníka a vlastníka stavby v případech, kdy sami žalobu nepodali. Jde o speciální normu vůči obecné úpravě osob zúčastněných na řízení dle § 34 soudního řádu správního (zákon č. 150/2002 Sb., dále „SŘS").
@@ -737,6 +742,13 @@ Toto je prakticky důležité v situaci, kdy sousedé nebo jiní účastníci ř
 > *(2) Rozšířit žalobu na dosud nenapadené výroky nebo ji rozšířit o další žalobní body může žalobce jen ve lhůtě 2 měsíců poté, kdy mu bylo rozhodnutí oznámeno.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 As 35/2025 - 24](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746537) — 30. 10. 2025
+  > „je třeba ustanovení § 306 zákona č. 283/2021 Sb., stavebního zákona, vykládat tak, že žalobu proti rozhodnutí stavebního úřadu (s výjimkou rozhodnutí o přestupku) je nutno podat ve lhůtě jednoho měsíce poté, kdy bylo rozhodnutí žalobci oznámeno (§ 306 odst. 1 tohoto zákona). Postačí přitom, bude li žaloba podána jako tzv. blanketní a doplněna o žalobní body až ve lhůtě dvou měsíců (§ 306 odst. 2 stavebního zákona)"
+- *ÚS* [I.ÚS 17/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-17-26_1) — usnesení, 4. 2. 2026
+  > „V procesním právu se postupuje podle zákona účinného v den, kdy je daný procesní úkon činěn. V projednávané věci byl rozhodný procesní úkon - doručení rozhodnutí krajského úřadu o odvolání - učiněn již za účinnosti nového stavebního zákona, a proto se na něj vztahuje právě tato právní úprava"
 
 #### Zkrácená lhůta a její odůvodnění
 
@@ -761,6 +773,11 @@ Odst. 2 zavádí **pevnou lhůtu pro rozšíření žaloby** — žalobce může
 > *(2) Návrh na zrušení opatření obecné povahy nebo jeho části je také nepřípustný, obsahuje-li pouze důvody, které navrhovatel neuplatnil v řízení o vydání opatření obecné povahy, ač tak učinit mohl; to neplatí, jde-li o opatření obecné povahy podléhající posouzení vlivů na životní prostředí.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [61 A 28/2025 - 53](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/769637) — 28. 1. 2026
+  > „je třeba § 307 odst. 2 stavebního zákona z roku 2021 vyložit ve prospěch zachování práva na soudní přezkum tak, že opatřením obecné povahy ve smyslu tohoto ustanovení je míněno pouze opatření obecné povahy vydané až podle tohoto zákona, a nepřípustnost návrhu je spojena jen s neuplatněním důvodů, které mohly být uplatněny v řízení o vydání opatření obecné povahy vedeném již podle stavebního zákona z roku 2021"
 
 #### Koncentrační princip a jeho meze — prekluze žalobních důvodů
 
@@ -849,6 +866,11 @@ Výjimka je zachována pro **obnovu řízení** (§ 100 a násl. SŘ) — avšak
 > *K řízení o zrušení územního rozvojového plánu nebo jeho části je příslušný Nejvyšší správní soud.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 Ao 1/2024 - 237](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/747724) — 9. 12. 2025
+  > „věcná příslušnost Nejvyššího správního soudu tvoří výjimku (§ 13 odst. 1 pandemického zákona; či § 310 zákona č. 283/2021 Sb., stavební zákon), a takové výjimky je nutné dle obecných výkladových pravidel vykládat úzce. Primární úlohou Nejvyššího správního soudu je sjednocování judikatury krajských soudů (§ 12 odst. 1 s. ř. s.) a rozšiřování jeho výjimečné věcné příslušnosti jej posouvá do role soudu nalézacího"
 
 #### Přímá příslušnost NSS
 

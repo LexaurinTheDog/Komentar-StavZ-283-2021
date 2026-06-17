@@ -221,6 +221,11 @@ Zákon č. 152/2023 Sb. — velká novela StavZ, která posunula účinnost zák
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 202/2024 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745671) — 30. 9. 2025
+  > „I když však tento zákon nabyl účinnosti dne 1. 1. 2024, a byl tedy účinný i ke dni 1. 3. 2024, pro první měsíce své účinnosti stanovil přechodná období. Podle § 334a odst. 1 nového stavebního zákona, ve znění účinném od 1. 1. 2024, bylo přechodným obdobím i období od 1. 1. 2024 do 30. 6. 2024, v němž podle § 334a odst. 2 a 3 tohoto zákona zůstala v zásadě nadále použitelná úprava podle starého stavebního zákona. Výjimky se týkaly vyhrazených staveb uvedených v příloze č. 3 k novému stavebnímu zákonu, o které v tomto řízení nejde"
+
 #### Kontext vzniku — novela č. 152/2023 Sb.
 
 § 334a byl vložen do StavZ novelou č. 152/2023 Sb. jako součást komplexní revize přechodného mechanismu. Původní zákon č. 283/2021 Sb. počítal s jedinou účinností od 1. července 2023; novela č. 152/2023 Sb. posunula obecnou účinnost na 1. ledna 2024 a pro většinu stavební agendy (s výjimkou vyhrazených staveb) zavedla druhé datum — 1. července 2024. § 334a upravuje zvláštní pravidla pro tzv. **první přechodné období** (1. 1. 2024 – 30. 6. 2024), v němž zákon sice formálně platil, ale plná stavebně-správní mašinérie ještě nebyla spuštěna.

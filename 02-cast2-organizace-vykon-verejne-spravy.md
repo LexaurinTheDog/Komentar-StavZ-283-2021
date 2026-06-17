@@ -109,6 +109,11 @@ Podrobné vymezení věcné působnosti DESÚ je rozvedeno v § 33 (Hlava III), 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 66/2024 - 106](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/742022) — 17. 4. 2025
+  > „Kontrolu dodržení podmínek stanovených závaznými stanovisky proto provádějí dotčené orgány. Dotčené orgány jsou následně příslušné ve smyslu § 4 odst. 6 stavebního zákona kontrolovat dodržování podmínek, které ve svých závazných stanoviscích stanovily …; obdobné vyplývá z § 18 odst. 4 zákona č. 283/2021 Sb., stavební zákon. Obecně pak provádění stavby kontroluje stavební úřad … Těmito dozorovými pravomocemi orgánů veřejné správy je tedy stavebník průběžně nucen k tomu, aby při realizaci stavby jednal v mezích stanovených podmínek …"
+
 #### Pojem dotčeného orgánu ve stavebním řízení
 
 Stavební zákon výslovně nedefinuje dotčený orgán; vychází z obecné definice správního řádu (zákon č. 500/2004 Sb., § 136), podle níž jsou dotčenými orgány správní orgány, které hájí veřejné zájmy chráněné zvláštními zákony. Ve stavebním řízení jsou typicky dotčenými orgány: orgány ochrany přírody a krajiny (zákon č. 114/1992 Sb.), orgány státní památkové péče (zákon č. 20/1987 Sb.), orgány ochrany zemědělského půdního fondu (zákon č. 334/1992 Sb.), orgány ochrany lesa (zákon č. 289/1995 Sb.), vodoprávní úřady (zákon č. 254/2001 Sb.), hygienické stanice (zákon č. 258/2000 Sb.), orgány požární ochrany (zákon č. 133/1985 Sb.) a další.
@@ -241,6 +246,11 @@ Vydávání **územního rozvojového plánu** (písm. e) je nejdůležitější
 > *- j) vykonává další činnosti podle tohoto zákona.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 As 182/2024 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745545) — 26. 9. 2025
+  > „Ministerstvo pro místní rozvoj bylo dle § 11 stavebního zákona a obdobně také je dle § 21 zákona č. 283/2021 Sb., stavební zákon, v relevantním znění …, ústředním správním úřadem ve věcech územního plánování, resp. nadřízeným správním orgánem krajských úřadů jako úřadů územního plánování, a mimo jiné zajišťuje metodickou podporu uplatňování soudobých poznatků územního plánování, urbanismu, architektury a poznatků stavebně technických, jakož i veřejných zájmů ve výstavbě a stavebnictví"
 
 #### Ministerstvo jako nadřízený orgán (odst. 1)
 
