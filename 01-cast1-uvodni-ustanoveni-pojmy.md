@@ -85,6 +85,56 @@ Starý StavZ 2006 formuloval předmět zákona v § 1, který byl sice srovnatel
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bfb393c78659d2d022e2 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 1 — Předmět úpravy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Tento zákon upravuje působnost orgánů stavební správy, orgánů územního plánování a orgánů územní samosprávy v oblasti územního plánování a stavebního řádu, stanoví cíle, úkoly a nástroje územního plánování, požadavky na výstavbu a [[stavební řád|stavební řád]].
+>
+> (2) Tento zákon dále upravuje podmínky pro integrovanou ochranu veřejných zájmů při územním plánování, povolování staveb a výstavbě, povinnosti osob při přípravě a provádění staveb, podmínky pro projektovou činnost a provádění staveb, některé účely vyvlastnění, oprávnění autorizovaných inspektorů a výkon kontroly.
+>
+> (3) Účelem [[stavebního zákona|stavebního zákona]] je zajistit integrovanou ochranu veřejných zájmů při územním plánování, povolování staveb a výstavbě a vytvářet podmínky pro udržitelný rozvoj území a zvyšování kvality vystavěného prostředí, architektury a stavební kultury.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bfb393c78659d2d022e2 -->
+
 ### § 2 — Dotčené orgány
 
 > **§ 2**
@@ -157,6 +207,56 @@ Toto pravidlo úzce souvisí s principem jednoho povolení (§§ části šesté
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3ae187faca849368dc35 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 2 — Dotčené orgány
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Dotčený orgán je vázán svým předchozím stanoviskem, vyjádřením nebo závazným stanoviskem, které vydal jako podklad pro úkony podle tohoto zákona.
+>
+> (2) Při pořizování navazující územně plánovací dokumentace se nepřihlíží ke stanoviskům dotčených orgánů ve věcech, o nichž bylo rozhodnuto při schválení politiky územního rozvoje a vydání nadřazené územně plánovací dokumentace.
+>
+> (3) Při postupech podle části šesté se nepřihlíží k vyjádření nebo závaznému stanovisku ve věcech, o kterých bylo rozhodnuto v územně plánovací dokumentaci nebo v územním opatření.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3ae187faca849368dc35 -->
+
 ### § 3 — Změna podmínek
 
 > **§ 3**
@@ -222,6 +322,56 @@ Podá-li dotčený orgán nové stanovisko mimo taxativně vymezené důvody § 
 **Typicky rozhodné důkazy / podklady:** původní a nové stanovisko s odůvodněním, původní žádost a dokumentace, nově získané podklady (studie, měření, posudky), doklad o změně právního předpisu, srovnání podrobnosti ÚPD.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=25162aaba319b3e90616 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 3 — Změna podmínek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Nové stanovisko, vyjádření nebo závazné stanovisko může dotčený orgán v téže věci uplatňovat pouze v rozsahu nově zjištěných skutečností, které nemohly být zjištěny dříve, nebo na základě změny právních předpisů, a pokud se jimi změnily podmínky, za kterých bylo stanovisko, vyjádření nebo závazné stanovisko vydáno, a to jen v rozsahu změny podmínek.
+>
+> (2) Nové stanovisko, vyjádření nebo závazné stanovisko může dotčený orgán vydat také tehdy, pokud původní bylo vydáno na základě údajů nepravdivých, neúplných nebo zkreslených.
+>
+> (3) Nové stanovisko k územně plánovací dokumentaci může dotčený orgán uplatnit také na základě skutečností vyplývajících z větší podrobnosti pořizované územně plánovací dokumentace, nebo na základě výsledku řešení rozporů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=25162aaba319b3e90616 -->
 
 ## Hlava II — Pojmy
 
@@ -291,6 +441,54 @@ Zavedení speciální zkratky odráží požadavky unijního práva (směrnice E
 **Typicky rozhodné důkazy / podklady:** projektová dokumentace, geometrický plán, doklady o dosavadním a navrhovaném využití území, oznámení/závěr zjišťovacího řízení EIA, katastrální mapa.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2a12c651286f9e09edee generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 4 — Záměr
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Záměrem se v tomto zákoně rozumí stavba, soubor staveb, zařízení, údržba dokončené stavby, změna využití území, dělení nebo scelování pozemků a stanovení ochranného pásma.
+>
+> (2) Záměrem EIA se v tomto zákoně rozumí záměr podle odstavce 1, který podléhá posouzení vlivů na životní prostředí podle zákona [[o posuzování vlivů na životní prostředí|o posuzování vlivů na životní prostředí]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2a12c651286f9e09edee -->
 
 ### § 5 — Stavba
 
@@ -399,6 +597,70 @@ Definice stavby (§ 5 odst. 1) je věcně shodná se StavZ 2006; fikce „výrob
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=117f877eb44a1ce8ab88 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 5 — Stavba
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Stavbou se v tomto zákoně rozumí stavební dílo, které vzniká stavební nebo montážní činností ze stavebních výrobků, materiálů nebo konstrukcí za účelem užívání na určitém místě. Za stavbu se považuje také výrobek plnící funkci stavby.
+>
+> (2) Stavby jsou
+>
+> - a) drobné, které jsou uvedeny v příloze č. 1 k tomuto zákonu,
+>
+> - b) jednoduché, které jsou uvedeny v příloze č. 2 k tomuto zákonu,
+>
+> - c) vyhrazené, které jsou uvedeny v příloze č. 3 k tomuto zákonu, a
+>
+> - d) ostatní.
+>
+> (3) Souborem staveb se v tomto zákoně rozumí vzájemně související stavby, jimiž se v rámci jednoho záměru uskutečňuje výstavba na souvislém území nebo za společným účelem.
+>
+> (4) Stavbou hlavní souboru staveb se v tomto zákoně rozumí stavba, která určuje účel výstavby souboru staveb. Vedlejší stavbou v souboru staveb se v tomto zákoně rozumí stavba, která se stavbou hlavní svým účelem užívání nebo umístěním souvisí a která zabezpečuje uživatelnost stavby hlavní nebo doplňuje účel užívání stavby hlavní.
+>
+> (5) Dočasnou stavbou se v tomto zákoně rozumí stavba, u které stavební úřad předem omezí dobu jejího trvání.
+>
+> (6) Používá-li se v tomto zákoně pojem stavba, rozumí se tím podle okolností také její část nebo změna dokončené stavby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=117f877eb44a1ce8ab88 -->
+
 ### § 6 — Změna a údržba dokončené stavby
 
 > **§ 6**
@@ -487,6 +749,72 @@ Hraniční případy (zda jde ještě o údržbu nebo již o stavební úpravu) 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7da30edff28de86bb16e generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 6 — Změna a údržba dokončené stavby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Změnou dokončené stavby se v tomto zákoně rozumí
+>
+> - a) nástavba, kterou se stavba zvyšuje,
+>
+> - b) přístavba, kterou se stavba půdorysně rozšiřuje a která je vzájemně provozně propojena s dosavadní stavbou, a
+>
+> - c) stavební úprava, při které se zachovává vnější půdorysné i výškové ohraničení stavby.
+>
+> (2) Změnou dokončené stavby se v tomto zákoně rozumí také změna v užívání stavby spočívající ve změně v
+>
+> - a) způsobu užívání stavby,
+>
+> - b) provozním zařízení stavby,
+>
+> - c) způsobu výroby nebo podstatném rozšíření výroby,
+>
+> - d) činnosti, jejíž účinky by mohly ohrozit život nebo veřejné zdraví, život a zdraví zvířat, bezpečnost nebo životní prostředí, nebo
+>
+> - e) době trvání dočasné stavby, anebo změně dočasné stavby na stavbu trvalou.
+>
+> (3) Údržbou dokončené stavby se v tomto zákoně rozumí udržovací práce, jimiž se zabezpečuje dobrý stavebně technický stav stavby tak, aby se co nejvíce snížilo nebezpečí výskytu závady nebo havárie stavby a nedocházelo ke znehodnocení stavby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7da30edff28de86bb16e -->
+
 ### § 7 — Zařízení
 
 > **§ 7**
@@ -552,6 +880,54 @@ Tato úprava navazuje na rostoucí regulaci reklamy ve veřejném prostoru a rea
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1f4edc1a3b9a00ff56f7 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 7 — Zařízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Zařízením se v tomto zákoně rozumí technické zařízení nebo reklamní zařízení, pokud nejde o stavbu, které vzniká za účelem užívání na určitém místě.
+>
+> (2) Reklamním zařízením se v tomto zákoně rozumí panel, tabule, deska nebo konstrukce, které slouží k šíření reklamy nebo jiných informací. Reklamní zařízení o celkové ploše větší než 8 m2 se považuje za stavbu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1f4edc1a3b9a00ff56f7 -->
+
 ### § 8 — Terénní úprava
 
 > **§ 8**
@@ -609,6 +985,52 @@ Terénní úprava (§ 8) je záměrem, jen jde-li o zemní práce podstatně mě
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6eacd37de40489585b2f generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 8 — Terénní úprava
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> Terénní úpravou se v tomto zákoně rozumí zemní práce a změny terénu, jimiž se podstatně mění vzhled prostředí nebo odtokové poměry, těžební a jim podobné a s nimi související práce, nejde-li o hornickou činnost nebo činnost prováděnou hornickým způsobem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6eacd37de40489585b2f -->
+
 ### § 9 — Staveniště
 
 > **§ 9**
@@ -664,6 +1086,54 @@ Definice zahrnuje i staveniště pro **odstraňování staveb** — demoliční 
 **Typicky rozhodné důkazy / podklady:** povolení záměru s vymezením staveniště, povolení záboru/zvláštního užívání komunikace, smlouvy s vlastníky sousedních pozemků, dokumentace zajištění staveniště, doklady o BOZP, protokoly o případné škodě.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c1ce05671eac46b1a991 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 9 — Staveniště
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Staveništěm se v tomto zákoně rozumí místo, na kterém se provádí stavba, zařízení, terénní úprava nebo udržovací práce anebo na kterém se stavba, zařízení nebo terénní úprava odstraňuje.
+>
+> (2) Staveniště zahrnuje stavební pozemek nebo jeho část anebo část stavby, popřípadě, v rozsahu vymezeném stavebním úřadem, též jiný pozemek nebo jeho část anebo část jiné stavby potřebné pro provedení nebo odstranění stavby, zařízení nebo terénní úpravy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c1ce05671eac46b1a991 -->
 
 ### § 10 — Veřejná infrastruktura
 
@@ -741,6 +1211,66 @@ Zákon samostatně definuje pojem „síť technické infrastruktury" jako veden
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=49fb7bc2ac60b453c6dc generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 10 — Veřejná infrastruktura
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Veřejnou infrastrukturou se v tomto zákoně rozumí pozemky, stavby a zařízení sloužící veřejné potřebě, a to
+>
+> - a) dopravní infrastruktura, kterou jsou zejména stavby pozemních komunikací, drah, vodních cest, leteckých staveb a s nimi související stavby a zařízení,
+>
+> - b) technická infrastruktura, kterou jsou zejména systémy a sítě technické infrastruktury a s nimi související stavby a zařízení pro zásobování vodou, odvádění a čištění odpadních vod, energetiku, včetně výroben a zdrojů energie, zařízení pro ukládání energie, dobíjecích stanic a zásobníků plynu, produktovody a elektronické komunikace, a dále stavby a zařízení ke snižování nebezpečí v území a pro zlepšování stavu povrchových a podzemních vod nebo k nakládání s odpady,
+>
+> - c) zelená infrastruktura, kterou je plánovaný, převážně spojitý systém ploch a jiných prvků vegetačních, vodních a pro hospodaření s vodou, přírodního a polopřírodního charakteru, které svým cílovým stavem umožňují nebo významně podporují plnění široké škály ekosystémových služeb a funkcí; součástí zelené infrastruktury je také územní systém ekologické stability krajiny,
+>
+> - d) občanské vybavení, kterým jsou stavby, zařízení a pozemky sloužící k zajištění základních potřeb obyvatel, zejména pro vzdělávání, výchovu a sport, sociální a zdravotní služby, kulturu, veřejnou správu a ochranu obyvatelstva,
+>
+> - e) veřejná prostranství1).
+>
+> (2) Sítí technické infrastruktury se v tomto zákoně rozumí liniové nebo prostorové vedení inženýrské sítě, včetně armatur, zařízení a konstrukcí na vedení a jeho koncových prvků, zabezpečující napojení na jednotlivé druhy využívaných médií.
+>
+> (3) Sítě technické infrastruktury jsou podle účelu zejména energetické, vodovodní a kanalizační, elektronických komunikací a produktovody.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=49fb7bc2ac60b453c6dc -->
+
 ### § 11 — Veřejně prospěšná stavba a opatření
 
 > **§ 11**
@@ -803,6 +1333,54 @@ Veřejně prospěšná **opatření** jsou nestavební (typicky pozemkové úpra
 **Typicky rozhodné důkazy / podklady:** ÚPD s vymezením VPS/VPO, projektová dokumentace vč. vyvolaných investic, technické posouzení nezbytnosti podmiňujících staveb, doklady o jednání o získání práv, znalecký posudek pro náhradu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ddd7008c1f14af635823 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 11 — Veřejně prospěšná stavba a opatření
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Veřejně prospěšnou stavbou se v tomto zákoně rozumí stavba nebo zařízení pro veřejnou infrastrukturu určená k rozvoji nebo ochraně území obce, kraje nebo státu vymezená v územně plánovací dokumentaci a stavby a zařízení s ní související nebo podmiňující její realizaci.
+>
+> (2) Veřejně prospěšným opatřením se v tomto zákoně rozumí opatření nestavební povahy sloužící ke snižování nebezpečí v území, vytváření prvků územního systému ekologické stability2) a k rozvoji anebo k ochraně přírodního, kulturního a archeologického dědictví, vymezené v územně plánovací dokumentaci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ddd7008c1f14af635823 -->
 
 ### § 12 — Základní pojmy územního plánování
 
@@ -953,6 +1531,116 @@ Zákon přidává řadu pojmů, které StavZ 2006 neznal nebo definoval jinak:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=613a276fc752b62277ab generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 12 — Základní pojmy územního plánování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> V tomto zákoně se rozumí
+>
+> - a) změnou v území změna jeho funkčního využití nebo prostorového uspořádání, včetně umisťování staveb nebo jejich změn,
+>
+> - b) stavebním pozemkem pozemek, jeho část nebo soubor pozemků vymezený a určený k zastavění,
+>
+> - c) zastavěným stavebním pozemkem pozemek evidovaný v katastru nemovitostí jako stavební parcela a další pozemkové parcely zpravidla pod společným oplocením tvořící souvislý funkční a prostorový celek se stavbami majícími určující funkci v tomto souvislém celku,
+>
+> - d) plochou část území tvořená jedním nebo více pozemky nebo jejich částmi, která je vymezena v územním rozvojovém plánu, zásadách územního rozvoje nebo územním plánu, popřípadě v územně plánovacích podkladech, s ohledem na stávající nebo požadovaný způsob využití nebo její význam,
+>
+> - e) koridorem území vymezené pro zpravidla liniový záměr dopravní nebo technické infrastruktury nebo opatření nestavební povahy,
+>
+> - f) plochou nebo koridorem celostátního významu plocha nebo koridor, které svým významem, rozsahem nebo využitím ovlivní území více krajů nebo států,
+>
+> - g) plochou nebo koridorem nadmístního významu plocha nebo koridor, které svým významem, rozsahem nebo využitím ovlivní území více obcí; v případě hlavního města Prahy se za plochu nebo koridor nadmístního významu považují plocha nebo koridor, které svým významem, rozsahem nebo využitím ovlivní území více městských částí,
+>
+> - h) zastavěným územím území vymezené samostatným postupem podle tohoto zákona (dále jen „vymezení zastavěného území“) nebo územním plánem,
+>
+> - i) zastavitelnou plochou plocha určená k zastavění vymezená v územním rozvojovém plánu, zásadách územního rozvoje nebo územním plánu,
+>
+> - j) nezastavěným územím území nezahrnuté do zastavěného území nebo do zastavitelné plochy,
+>
+> - k) transformační plochou plocha určená k vytvoření zcela nového charakteru území nebo k obnově znehodnoceného, nebo zanedbaného území za účelem jeho opětovného využití vymezená územním rozvojovým plánem, zásadami územního rozvoje nebo v zastavěném území územním plánem,
+>
+> - l) plochou změny v krajině plocha určená ke změně stávajícího využití na jiné využití nezastavěného území vymezená v nezastavěném území územním plánem,
+>
+> - m) uliční čarou hranice mezi pozemky a veřejným prostranstvím,
+>
+> - n) stavební čarou rozhraní mezi stavbou a nezastavěnou částí pozemku, která určuje polohu hrany stavby ve výši rostlého nebo upraveného terénu; stavební čára může být
+>
+> - 1. uzavřená, která stanoví rozhraní souvisle zastavěné, v celé délce stavby, nebo
+>
+> - 2. otevřená, která stanoví rozhraní přerušované stavebními mezerami,
+>
+> - o) stavební prolukou nezastavěný prostor ve stávající souvislé zástavbě, včetně nezastavěného nároží, který je určen k zastavění,
+>
+> - p) nadřazenou územně plánovací dokumentací se pro
+>
+> - 1. regulační plán rozumí územní plán, zásady územního rozvoje a územní rozvojový plán,
+>
+> - 2. územní plán rozumí zásady územního rozvoje a územní rozvojový plán,
+>
+> - 3. zásady územního rozvoje rozumí územní rozvojový plán,
+>
+> - q) navazující územně plánovací dokumentací se pro
+>
+> - 1. politiku územního rozvoje rozumí územní rozvojový plán, zásady územního rozvoje, územní plán a regulační plán,
+>
+> - 2. územní rozvojový plán rozumí zásady územního rozvoje, územní plán a regulační plán,
+>
+> - 3. zásady územního rozvoje rozumí územní plán a regulační plán,
+>
+> - 4. územní plán rozumí regulační plán,
+>
+> - r) limitem využití území omezení změn v území z důvodu ochrany veřejných zájmů, vyplývající z právních předpisů, nebo stanovené na základě jiných právních předpisů, nebo vyplývající z vlastností území,
+>
+> - s) schématem výkres, ve kterém se zjednodušenou formou zobrazují jevy v měřítku menším, než je stanoveno pro jednotlivé územně plánovací dokumentace,
+>
+> - t) vystavěným prostředím prostředí vytvořené nebo upravené člověkem zahrnující stavby a volná prostranství veřejná i neveřejná,
+>
+> - u) asanací soubor opatření sloužících k ozdravění území, které vykazuje závady, zejména z důvodů hospodářských změn anebo postižení živelní pohromou nebo závažnou havárií,
+>
+> - v) architektonickou soutěží postup hledání nejlepšího architektonického řešení stavby anebo zhotovitele projektové dokumentace, při němž jsou předkládány a hodnoceny návrhy architektonického řešení stavby,
+>
+> - w) urbanistickou soutěží postup hledání nejlepšího urbanistického řešení území anebo zhotovitele územní studie nebo územně plánovací dokumentace, při němž jsou předkládány a hodnoceny návrhy urbanistického řešení území.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=613a276fc752b62277ab -->
+
 ### § 13 — Základní pojmy stavebního řádu I.
 
 > **§ 13**
@@ -1056,6 +1744,86 @@ Zahrnutí tohoto pojmu do části první (pojmy) zdůrazňuje systémový charak
 **Typicky rozhodné důkazy / podklady:** projektová dokumentace (řezy, počet podlaží, výpočet ustoupení), dispoziční řešení s počtem bytů, výpočty podlahových a zastavěných ploch, doklad o uliční čáře, (u dostupného bydlení) plánovací smlouva nebo regulační plán.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=114a3bc2bb44b2323151 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 13
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> V tomto zákoně se dále rozumí
+>
+> - a) budovou nadzemní stavba, včetně její podzemní části, prostorově soustředěná a navenek převážně uzavřená obvodovými stěnami a střešní konstrukcí,
+>
+> - b) bytovým domem stavba pro bydlení, ve které více než polovina podlahové plochy slouží bydlení,
+>
+> - c) rodinným domem stavba pro bydlení, ve které více než polovina podlahové plochy slouží bydlení, a která má nejvýše tři samostatné byty, nejvýše dvě nadzemní a jedno podzemní podlaží a podkroví, nebo třetí nadzemní podlaží ustoupené od vnějšího líce obvodové stěny budovy orientované k uliční čáře alespoň o 2 metry,
+>
+> - d) přístupností vytváření podmínek pro samostatné a bezpečné využití pozemků a staveb osobami s pohybovým, zrakovým nebo sluchovým postižením, osobami pokročilého věku, těhotnými ženami a osobami doprovázejícími dítě v kočárku nebo dítě do 3 let (dále jen „osoba s omezenou schopností pohybu nebo orientace“) s cílem bezbariérového užívání,
+>
+> - e) stavbou ubytovacího zařízení stavba nebo její část pro poskytování ubytování a služby s tím spojené; stavbou ubytovacího zařízení není bytový dům, rodinný dům ani stavba pro rodinnou rekreaci,
+>
+> - f) stavbou pro obchod stavba s prodejní plochou,
+>
+> - g) stavbou pro výrobu a skladování stavba pro průmyslovou, řemeslnou nebo jinou výrobu, popřípadě služby mající charakter výroby, a dále pro skladování výrobků, hmot a materiálů, kromě staveb pro skladování uvedených v písmenu h),
+>
+> - h) stavbou pro zemědělství stavba pro hospodářská zvířata, doprovodná stavba pro hospodářská zvířata, stavba pro rostlinnou výrobu a pro posklizňovou úpravu, stavba pro zemědělské stroje, stavba pro skladování produktů rostlinné výroby, minerálních hnojiv, přípravků a prostředků na ochranu rostlin,
+>
+> - i) bytem soubor místností, popřípadě jedna obytná místnost, který svým stavebně technickým uspořádáním a vybavením splňuje požadavky na trvalé bydlení,
+>
+> - j) bytem zvláštního určení byt upravený k bydlení osob s těžkým pohybovým postižením nebo osob s těžkým zrakovým postižením,
+>
+> - k) místností prostorově uzavřená část stavby, vymezená podlahou, stropem nebo konstrukcí střechy a pevnými stěnami,
+>
+> - l) obytnou místností část bytu, která je určena k bydlení, splňuje požadavky na bydlení z hlediska velikosti, denního osvětlení, větrání, vytápění a hluku a má podlahovou plochu nejméně 8 m2; kuchyň se za obytnou místnost považuje, pokud má podlahovou plochu nejméně 12 m2; tvoří-li byt jediná obytná místnost, musí být její podlahová plocha nejméně 16 m2,
+>
+> - m) pobytovou místností místnost, která svou polohou, velikostí a stavebním uspořádáním splňuje požadavky na to, aby se v ní zdržovaly osoby,
+>
+> - n) podlahovou plochou součet ploch vymezených vnitřním lícem svislých konstrukcí jednotlivých místností a prostorů stavebně upravených k účelovému využití v budově; v podlažích se šikmými stěnami nebo šikmým stropem je vymezena vnitřním lícem konstrukcí v úrovni 1,2 m nad úrovní podlahy; u poloodkrytých popřípadě odkrytých prostorů se místo chybějících svislých konstrukcí podlahová plocha vymezí pravoúhlým průmětem obvodu vodorovné nosné konstrukce,
+>
+> - o) zastavěnou plochou stavby plocha ohraničená pravoúhlými průměty vnějšího líce obvodových konstrukcí všech nadzemních i podzemních podlaží do vodorovné roviny; plochy lodžií a arkýřů se započítávají; u objektů poloodkrytých (bez některých obvodových stěn) je zastavěná plocha vymezena obalovými čarami vedenými vnějšími líci svislých konstrukcí do vodorovné roviny; u zastřešených staveb nebo jejich částí bez obvodových svislých konstrukcí je zastavěná plocha vymezena pravoúhlým průmětem střešní konstrukce do vodorovné roviny,
+>
+> - p) zastavěnou plochou pozemku součet všech zastavěných ploch jednotlivých staveb,
+>
+> - q) domem pro dostupné nájemní bydlení bytový dům, k němuž je uzavřena plánovací smlouva o dostupném nájemním bydlení, nebo který je jako dům pro dostupné nájemní bydlení vymezen v regulačním plánu vydaném obcí, která je stavebníkem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=114a3bc2bb44b2323151 -->
 
 ### § 14 — Základní pojmy stavebního řádu II.
 
@@ -1163,3 +1931,64 @@ Zákon rozlišuje dvě formy odborného dozoru:
 **Typicky rozhodné důkazy / podklady:** žádost o povolení záměru, smlouvy (o dílo, o zpracování dokumentace, o dozoru), autorizační razítko a doklad o autorizaci, živnostenská oprávnění, doklady o svépomocné výstavbě a zajištění dozoru.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=a4f5e6c4592dc4066cff generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 14
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> V tomto zákoně se dále rozumí
+>
+> - a) stavebníkem osoba, která pro sebe žádá vydání povolení záměru nebo odstranění stavby, zařízení nebo terénní úpravy, a dále osoba, která provádí nebo odstraňuje stavbu, zařízení nebo terénní úpravu, pokud nejde o stavebního podnikatele jednajícího v rámci své podnikatelské činnosti,
+>
+> - b) projektantem fyzická osoba oprávněná podle [[autorizačního zákona|autorizačního zákona]] ke zpracování územně plánovací dokumentace, územní studie a projektové dokumentace,
+>
+> - c) hlavním projektantem projektant pověřený koordinací při zpracování dokumentace,
+>
+> - d) stavebním podnikatelem osoba oprávněná k provádění stavebních nebo montážních prací jako předmětu své činnosti podle [[živnostenského zákona|živnostenského zákona]],
+>
+> - e) zhotovitelem stavebník v případě svépomocné formy výstavby, nebo stavební podnikatel,
+>
+> - f) stavbyvedoucím fyzická osoba oprávněná podle [[autorizačního zákona|autorizačního zákona]] k odbornému vedení provádění nebo odstraňování stavby,
+>
+> - g) stavebním dozorem odborný dozor nad prováděním nebo odstraňováním stavby, zařízení anebo terénní úpravy svépomocí,
+>
+> - h) dozorem projektanta průběžný odborný dozor nad souladem realizace dokumentace pro provádění záměru s dokumentací o povolení záměru a nad prováděním záměru v souladu s dokumentací pro provedení záměru.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a4f5e6c4592dc4066cff -->

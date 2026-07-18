@@ -83,6 +83,56 @@ Zákon reaguje na specifika dopravní infrastruktury — ministerstvo dopravy je
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=31ab7ac078cc9dabec04 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 333
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo vydá vyhlášky k provedení § 18 odst. 4, § 30 odst. 3 a [[#§ 4|4]], § 59 odst. 4, § 62 odst. 3, § 64 odst. 1, § 66 odst. 3, § 87 odst. 4, § 109 odst. 4, § 152 odst. 1, § 154 odst. 2, § 158 odst. 5, § 161 odst. 4, § 166 odst. 4, § 167 písm. e) a f), § 169 odst. 2, § 172 odst. 2, § 227 odst. 5, § 267 odst. 5, § 268 odst. 3, § 269 odst. 7, § 270 odst. 3, § 271 odst. 4, § 273 odst. 3, [[#§ 278|§ 278]], § 285 odst. 4 a § 292 odst. 5.
+>
+> (2) Ministerstvo dopravy vydá vyhlášku k provedení § 17 odst. 3, § 152 odst. 1 a § 158 odst. 5, kterou stanoví technické požadavky na stavby dálnic, silnic, místních komunikací a veřejně přístupných účelových komunikací, stavby drah a civilní letecké stavby a rozsah a obsah projektové dokumentace k těmto stavbám.
+>
+> (3) Hlavní město Praha, statutární město Brno a statutární město Ostrava mohou v přenesené působnosti vydat nařízení k provedení § 152 odst. 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18, § 30, § 4, § 59, § 62, § 64, § 66, § 87, § 109, § 152, § 154, § 158, § 161, § 166, § 167, § 169, § 172, § 227, § 267, § 268, § 269, § 270, § 271, § 273, § 278, § 285, § 292, § 17
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=31ab7ac078cc9dabec04 -->
+
 ## Hlava IV — Závěrečné ustanovení
 
 ### § 334 — Zrušovací ustanovení
@@ -279,6 +329,243 @@ Zákon č. 152/2023 Sb. — velká novela StavZ, která posunula účinnost zák
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7c23a222fea2c6f93071 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 334
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> Zrušují se:
+>
+> - 1. [[Zákon č. 183/2006 Sb., o územním plánování a stavebním řádu|Zákon č. 183/2006 Sb., o územním plánování a stavebním řádu]] ([[stavební zákon|stavební zákon]]).
+>
+> - 2. [[Zákon č. 68/2007 Sb., kterým se mění zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon)|Zákon č. 68/2007 Sb., kterým se mění zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon)]].
+>
+> - 3. [[Zákon č. 191/2008 Sb., kterým se mění zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění zákona č. 68/2007 Sb|Zákon č. 191/2008 Sb., kterým se mění zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění zákona č. 68/2007 Sb.]]
+>
+> - 4. [[Část třicátá čtvrtá|Část třicátá čtvrtá]] [[zákona č. 223/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o volném pohybu služeb|zákona č. 223/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o volném pohybu služeb]].
+>
+> - 5. [[Zákon č. 345/2009 Sb., kterým se mění zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů, a zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů|Zákon č. 345/2009 Sb., kterým se mění zákon č. 72/1994 Sb., kterým se upravují některé spoluvlastnické vztahy k budovám a některé vlastnické vztahy k bytům a nebytovým prostorům a doplňují některé zákony (zákon o vlastnictví bytů), ve znění pozdějších předpisů, a zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů]].
+>
+> - 6. [[Zákon č. 379/2009 Sb., kterým se mění zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů|Zákon č. 379/2009 Sb., kterým se mění zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů]].
+>
+> - 7. [[Část sto osmdesátá|Část sto osmdesátá]] [[zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech|zákona č. 227/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o základních registrech]].
+>
+> - 8. [[Část sedmnáctá|Část sedmnáctá]] [[zákona č. 424/2010 Sb., kterým se mění zákon č. 111/2009 Sb., o základních registrech, ve znění zákona č. 100/2010 Sb., a další související zákony|zákona č. 424/2010 Sb., kterým se mění zákon č. 111/2009 Sb., o základních registrech, ve znění zákona č. 100/2010 Sb., a další související zákony]].
+>
+> - 9. [[Část sto sedmdesátá druhá|Část sto sedmdesátá druhá]] [[zákona č. 281/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím daňového řádu|zákona č. 281/2009 Sb., kterým se mění některé zákony v souvislosti s přijetím daňového řádu]].
+>
+> - 10. [[Část čtyřicátá první|Část čtyřicátá první]] [[zákona č. 420/2011 Sb., o změně některých zákonů v souvislosti s přijetím zákona o trestní odpovědnosti právnických osob a řízení proti nim|zákona č. 420/2011 Sb., o změně některých zákonů v souvislosti s přijetím zákona o trestní odpovědnosti právnických osob a řízení proti nim]].
+>
+> - 11. [[Část dvacátá sedmá|Část dvacátá sedmá]] [[zákona č. 142/2012 Sb., o změně některých zákonů v souvislosti se zavedením základních registrů|zákona č. 142/2012 Sb., o změně některých zákonů v souvislosti se zavedením základních registrů]].
+>
+> - 12. [[Část třicátá druhá|Část třicátá druhá]] [[zákona č. 167/2012 Sb., kterým se mění zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění pozdějších předpisů, zákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění pozdějších předpisů, a další související zákony|zákona č. 167/2012 Sb., kterým se mění zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, ve znění pozdějších předpisů, zákon č. 227/2000 Sb., o elektronickém podpisu a o změně některých dalších zákonů (zákon o elektronickém podpisu), ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 13. [[Část první|Část první]] [[zákona č. 350/2012 Sb., kterým se mění zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, a některé související zákony|zákona č. 350/2012 Sb., kterým se mění zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, a některé související zákony]].
+>
+> - 14. [[Část šestá|Část šestá]] [[zákona č. 257/2013 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o katastru nemovitostí|zákona č. 257/2013 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o katastru nemovitostí]].
+>
+> - 15. [[Část čtvrtá|Část čtvrtá]] [[zákona č. 39/2015 Sb., kterým se mění zákon č. 100/2001 Sb., o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí), ve znění pozdějších předpisů, a další související zákony|zákona č. 39/2015 Sb., kterým se mění zákon č. 100/2001 Sb., o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí), ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 16. [[Část čtvrtá|Část čtvrtá]] [[zákona č. 91/2016 Sb., kterým se mění zákon č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů, a některé další zákony|zákona č. 91/2016 Sb., kterým se mění zákon č. 22/1997 Sb., o technických požadavcích na výrobky a o změně a doplnění některých zákonů, ve znění pozdějších předpisů, a některé další zákony]].
+>
+> - 17. [[Část čtyřicátá devátá|Část čtyřicátá devátá]] [[zákona č. 298/2016 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o službách vytvářejících důvěru pro elektronické transakce, zákon č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, a zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění pozdějších předpisů|zákona č. 298/2016 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o službách vytvářejících důvěru pro elektronické transakce, zákon č. 106/1999 Sb., o svobodném přístupu k informacím, ve znění pozdějších předpisů, a zákon č. 121/2000 Sb., o právu autorském, o právech souvisejících s právem autorským a o změně některých zákonů (autorský zákon), ve znění pozdějších předpisů]].
+>
+> - 18. [[Část desátá|Část desátá]] [[zákona č. 264/2016 Sb., kterým se mění některé zákony v souvislosti s přijetím atomového zákona|zákona č. 264/2016 Sb., kterým se mění některé zákony v souvislosti s přijetím atomového zákona]].
+>
+> - 19. [[Část sto sedmdesátá pátá|Část sto sedmdesátá pátá]] [[zákona č. 183/2017 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o odpovědnosti za přestupky a řízení o nich a zákona o některých přestupcích|zákona č. 183/2017 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o odpovědnosti za přestupky a řízení o nich a zákona o některých přestupcích]].
+>
+> - 20. [[Část čtvrtá|Část čtvrtá]] [[zákona č. 194/2017 Sb|zákona č. 194/2017 Sb.]], o opatřeních ke snížení nákladů na zavádění vysokorychlostních sítí elektronických komunikací a o změně některých souvisejících zákonů.
+>
+> - 21. [[Část devátá|Část devátá]] [[zákona č. 205/2017 Sb., kterým se mění zákon č. 181/2014 Sb., o kybernetické bezpečnosti a o změně souvisejících zákonů (zákon o kybernetické bezpečnosti), ve znění zákona č. 104/2017 Sb., a některé další zákony|zákona č. 205/2017 Sb., kterým se mění zákon č. 181/2014 Sb., o kybernetické bezpečnosti a o změně souvisejících zákonů (zákon o kybernetické bezpečnosti), ve znění zákona č. 104/2017 Sb., a některé další zákony]].
+>
+> - 22. [[Část devátá|Část devátá]] [[zákona č. 193/2017 Sb., kterým se mění zákon č. 256/2001 Sb., o pohřebnictví a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony|zákona č. 193/2017 Sb., kterým se mění zákon č. 256/2001 Sb., o pohřebnictví a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 23. [[Část první|Část první]] [[zákona č. 225/2017 Sb., kterým se mění zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, a další související zákony|zákona č. 225/2017 Sb., kterým se mění zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 24. [[Část pátá|Část pátá]] [[zákona č. 169/2018 Sb., kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní, vodní a energetické infrastruktury a infrastruktury elektronických komunikací, ve znění pozdějších předpisů, a další související zákony|zákona č. 169/2018 Sb., kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní, vodní a energetické infrastruktury a infrastruktury elektronických komunikací, ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 25. [[Část padesátá čtvrtá|Část padesátá čtvrtá]] [[zákona č. 277/2019 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o Sbírce zákonů a mezinárodních smluv|zákona č. 277/2019 Sb., kterým se mění některé zákony v souvislosti s přijetím zákona o Sbírce zákonů a mezinárodních smluv]].
+>
+> - 26. [[Část první|Část první]] [[zákona č. 312/2019 Sb., kterým se mění zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, a zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších předpisů|zákona č. 312/2019 Sb., kterým se mění zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, a zákon č. 254/2001 Sb., o vodách a o změně některých zákonů (vodní zákon), ve znění pozdějších předpisů]].
+>
+> - 27. [[Část druhá|Část druhá]] [[zákona č. 47/2020 Sb., kterým se mění zákon č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením, ve znění pozdějších předpisů, zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, a další související zákony|zákona č. 47/2020 Sb., kterým se mění zákon č. 200/1994 Sb., o zeměměřictví a o změně a doplnění některých zákonů souvisejících s jeho zavedením, ve znění pozdějších předpisů, zákon č. 183/2006 Sb., o územním plánování a stavebním řádu (stavební zákon), ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 28. [[Část dvacátá první|Část dvacátá první]] [[zákona č. 403/2020 Sb., kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní, vodní a energetické infrastruktury a infrastruktury elektronických komunikací, ve znění pozdějších předpisů, a další související zákony|zákona č. 403/2020 Sb., kterým se mění zákon č. 416/2009 Sb., o urychlení výstavby dopravní, vodní a energetické infrastruktury a infrastruktury elektronických komunikací, ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 29. [[Část sto dvacátá šestá|Část sto dvacátá šestá]] [[zákona č. 261/2021 Sb., kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci|zákona č. 261/2021 Sb., kterým se mění některé zákony v souvislosti s další elektronizací postupů orgánů veřejné moci]].
+>
+> - 30. [[Část druhá|Část druhá]] [[zákona č. 19/2023 Sb., kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony|zákona č. 19/2023 Sb., kterým se mění zákon č. 458/2000 Sb., o podmínkách podnikání a o výkonu státní správy v energetických odvětvích a o změně některých zákonů (energetický zákon), ve znění pozdějších předpisů, a další související zákony]].
+>
+> - 31. [[Vyhláška č. 590/2002 Sb., o technických požadavcích pro vodní díla|Vyhláška č. 590/2002 Sb., o technických požadavcích pro vodní díla]].
+>
+> - 32. [[Vyhláška č. 367/2005 Sb., kterou se mění vyhláška č. 590/2002 Sb., o technických požadavcích pro vodní díla|Vyhláška č. 367/2005 Sb., kterou se mění vyhláška č. 590/2002 Sb., o technických požadavcích pro vodní díla]].
+>
+> - 33. [[Vyhláška č. 498/2006 Sb., o autorizovaných inspektorech|Vyhláška č. 498/2006 Sb., o autorizovaných inspektorech]].
+>
+> - 34. [[Vyhláška č. 499/2006 Sb., o dokumentaci staveb|Vyhláška č. 499/2006 Sb., o dokumentaci staveb]].
+>
+> - 35. [[Vyhláška č. 62/2013 Sb., kterou se mění vyhláška č. 499/2006 Sb., o dokumentaci staveb|Vyhláška č. 62/2013 Sb., kterou se mění vyhláška č. 499/2006 Sb., o dokumentaci staveb]].
+>
+> - 36. [[Část první|Část první]] [[vyhlášky č. 405/2017 Sb., kterou se mění vyhláška č. 499/2006 Sb., o dokumentaci staveb, ve znění vyhlášky č. 62/2013 Sb., a vyhláška č. 169/2016 Sb., o stanovení rozsahu dokumentace veřejné zakázky na stavební práce a soupisu stavebních prací, dodávek a služeb s výkazem výměr|vyhlášky č. 405/2017 Sb., kterou se mění vyhláška č. 499/2006 Sb., o dokumentaci staveb, ve znění vyhlášky č. 62/2013 Sb., a vyhláška č. 169/2016 Sb., o stanovení rozsahu dokumentace veřejné zakázky na stavební práce a soupisu stavebních prací, dodávek a služeb s výkazem výměr]].
+>
+> - 37. [[Vyhláška č. 500/2006 Sb|Vyhláška č. 500/2006 Sb.]], o územně analytických podkladech, územně plánovací dokumentaci a o způsobu evidence územně plánovací činnosti.
+>
+> - 38. [[Vyhláška č. 458/2012 Sb., kterou se mění vyhláška č. 500/2006 Sb., o územně analytických podkladech, územně plánovací dokumentaci a způsobu evidence územně plánovací činnosti|Vyhláška č. 458/2012 Sb., kterou se mění vyhláška č. 500/2006 Sb., o územně analytických podkladech, územně plánovací dokumentaci a způsobu evidence územně plánovací činnosti]].
+>
+> - 39. [[Vyhláška č. 13/2018 Sb., kterou se mění vyhláška č. 500/2006 Sb., o územně analytických podkladech, územně plánovací dokumentaci a způsobu evidence územně plánovací činnosti, ve znění vyhlášky č. 458/2012 Sb|Vyhláška č. 13/2018 Sb., kterou se mění vyhláška č. 500/2006 Sb., o územně analytických podkladech, územně plánovací dokumentaci a způsobu evidence územně plánovací činnosti, ve znění vyhlášky č. 458/2012 Sb.]]
+>
+> - 40. [[Vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území|Vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území]].
+>
+> - 41. [[Vyhláška č. 269/2009 Sb., kterou se mění vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území|Vyhláška č. 269/2009 Sb., kterou se mění vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území]].
+>
+> - 42. [[Vyhláška č. 22/2010 Sb|Vyhláška č. 22/2010 Sb.]], kterou se mění [[vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území|vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území]], ve znění [[vyhlášky č. 269/2009 Sb|vyhlášky č. 269/2009 Sb.]]
+>
+> - 43. [[Vyhláška č. 20/2011 Sb., kterou se mění vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území, ve znění pozdějších předpisů|Vyhláška č. 20/2011 Sb., kterou se mění vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území, ve znění pozdějších předpisů]].
+>
+> - 44. [[Vyhláška č. 431/2012 Sb., kterou se mění vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území, ve znění pozdějších předpisů|Vyhláška č. 431/2012 Sb., kterou se mění vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území, ve znění pozdějších předpisů]].
+>
+> - 45. [[Vyhláška č. 360/2021 Sb., kterou se mění vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území, ve znění pozdějších předpisů|Vyhláška č. 360/2021 Sb., kterou se mění vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území, ve znění pozdějších předpisů]].
+>
+> - 46. [[Vyhláška č. 164/2022 Sb., kterou se mění vyhláška č. 360/2021 Sb., kterou se mění vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území, ve znění pozdějších předpisů|Vyhláška č. 164/2022 Sb., kterou se mění vyhláška č. 360/2021 Sb., kterou se mění vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území, ve znění pozdějších předpisů]].
+>
+> - 47. [[Vyhláška č. 503/2006 Sb|Vyhláška č. 503/2006 Sb.]], o podrobnější úpravě územního rozhodování, územního opatření a stavebního řádu.
+>
+> - 48. [[Vyhláška č. 63/2013 Sb., kterou se mění vyhláška č. 503/2006 Sb., o podrobnější úpravě územního řízení, veřejnoprávní smlouvy a územního opatření|Vyhláška č. 63/2013 Sb., kterou se mění vyhláška č. 503/2006 Sb., o podrobnější úpravě územního řízení, veřejnoprávní smlouvy a územního opatření]].
+>
+> - 49. [[Vyhláška č. 66/2018 Sb., kterou se mění vyhláška č. 503/2006 Sb., o podrobnější úpravě územního rozhodování, územního opatření a stavebního řádu, ve znění vyhlášky č. 63/2013 Sb|Vyhláška č. 66/2018 Sb., kterou se mění vyhláška č. 503/2006 Sb., o podrobnější úpravě územního rozhodování, územního opatření a stavebního řádu, ve znění vyhlášky č. 63/2013 Sb.]]
+>
+> - 50. [[Vyhláška č. 146/2008 Sb., o rozsahu a obsahu projektové dokumentace dopravních staveb|Vyhláška č. 146/2008 Sb., o rozsahu a obsahu projektové dokumentace dopravních staveb]].
+>
+> - 51. [[Vyhláška č. 251/2018 Sb., kterou se mění vyhláška č. 146/2008 Sb., o rozsahu a obsahu projektové dokumentace dopravních staveb|Vyhláška č. 251/2018 Sb., kterou se mění vyhláška č. 146/2008 Sb., o rozsahu a obsahu projektové dokumentace dopravních staveb]].
+>
+> - 52. [[Vyhláška č. 268/2009 Sb., o technických požadavcích na stavby|Vyhláška č. 268/2009 Sb., o technických požadavcích na stavby]].
+>
+> - 53. [[Vyhláška č. 20/2012 Sb., kterou se mění vyhláška č. 268/2009 Sb., o technických požadavcích na stavby|Vyhláška č. 20/2012 Sb., kterou se mění vyhláška č. 268/2009 Sb., o technických požadavcích na stavby]].
+>
+> - 54. [[Vyhláška č. 323/2017 Sb., kterou se mění vyhláška č. 268/2009 Sb., o technických požadavcích na stavby, ve znění vyhlášky č. 20/2012 Sb|Vyhláška č. 323/2017 Sb., kterou se mění vyhláška č. 268/2009 Sb., o technických požadavcích na stavby, ve znění vyhlášky č. 20/2012 Sb.]]
+>
+> - 55. [[Vyhláška č. 398/2009 Sb., o obecných technických požadavcích zabezpečujících bezbariérové užívání staveb|Vyhláška č. 398/2009 Sb., o obecných technických požadavcích zabezpečujících bezbariérové užívání staveb]].
+>
+> - 56. [[Vyhláška č. 239/2017 Sb., o technických požadavcích pro stavby pro plnění funkcí lesa|Vyhláška č. 239/2017 Sb., o technických požadavcích pro stavby pro plnění funkcí lesa]].
+>
+> - 57. [[Vyhláška č. 418/2022 Sb., kterou se mění vyhláška č. 500/2006 Sb., o územně analytických podkladech, územně plánovací dokumentaci a způsobu evidence územně plánovací činnosti, ve znění pozdějších předpisů, vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území, ve znění pozdějších předpisů, a vyhláška č. 360/2021 Sb., kterou se mění vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území, ve znění pozdějších předpisů, ve znění vyhlášky č. 164/2022 Sb|Vyhláška č. 418/2022 Sb., kterou se mění vyhláška č. 500/2006 Sb., o územně analytických podkladech, územně plánovací dokumentaci a způsobu evidence územně plánovací činnosti, ve znění pozdějších předpisů, vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území, ve znění pozdějších předpisů, a vyhláška č. 360/2021 Sb., kterou se mění vyhláška č. 501/2006 Sb., o obecných požadavcích na využívání území, ve znění pozdějších předpisů, ve znění vyhlášky č. 164/2022 Sb.]]
+>
+> - 58. Nařízení hlavního města Prahy č. [[10/2016 Sb|10/2016 Sb.]] hl. m. Prahy, kterým se stanovují obecné požadavky na využívání území a technické požadavky na stavby v hlavním městě Praze (pražské stavební předpisy).
+>
+> - 59. Nařízení hlavního města Prahy č. [[14/2018 Sb|14/2018 Sb.]] hl. m. Prahy, kterým se mění nařízení hlavního města Prahy č. [[10/2016 Sb|10/2016 Sb.]] hl. m. Prahy, kterým se stanovují obecné požadavky na využívání území a technické požadavky na stavby v hlavním městě Praze (pražské stavební předpisy).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- zákon č. 183/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 68/2007 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 191/2008 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 223/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 345/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 72/1994 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 379/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 227/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 424/2010 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 111/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 100/2010 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 281/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 420/2011 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 142/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 167/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 499/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 227/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 350/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 257/2013 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 39/2015 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 100/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 91/2016 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 22/1997 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 298/2016 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 106/1999 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 121/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 264/2016 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 183/2017 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 194/2017 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 205/2017 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 181/2014 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 104/2017 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 193/2017 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 256/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 225/2017 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 169/2018 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 416/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 277/2019 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 312/2019 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 254/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 47/2020 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 200/1994 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 403/2020 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 261/2021 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 19/2023 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 458/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 590/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 367/2005 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 498/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 499/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 62/2013 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 405/2017 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 169/2016 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 500/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 458/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 13/2018 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 501/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 269/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 22/2010 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 20/2011 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 431/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 360/2021 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 164/2022 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 503/2006 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 63/2013 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 66/2018 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 146/2008 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 251/2018 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 268/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 20/2012 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 323/2017 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 398/2009 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 239/2017 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 418/2022 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7c23a222fea2c6f93071 -->
+
 ## Hlava V — Zvláštní ustanovení o použitelnosti zákona v přechodném období
 
 ### § 334a — Přechodné období pro územní plánování a záměry
@@ -363,6 +650,58 @@ Od 1. července 2024 tak platí pro všechny záměry (vyhrazené i nevyhrazené
 **Typicky rozhodné důkazy / podklady:** datum podání žádosti / zahájení řízení; zařazení stavby v příloze č. 3; doklad o povaze záměru (souvislost se souborem staveb); znění § 334a a navazujících přechodných ustanovení; rozsudek NSS sp. zn. 4 As 202/2024 - 29.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e581d5db758d1fec5d17 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 334a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Přechodným obdobím se rozumí pro účely odstavců 2 a [[#§ 3|3]] období od 1. ledna 2024 do 30. června 2024 a pro účely odstavce 4 období od 1. července 2022 do 30. června 2023.
+>
+> (2) Ve věcech týkajících se územního plánování se v přechodném období postupuje podle dosavadních právních předpisů, s výjimkou územního řízení týkajícího se vyhrazené stavby uvedené v příloze č. 3 k tomuto zákonu nebo stavby s ní související, které v přechodném období nelze zahájit. Pro účely přechodných ustanovení v části dvanácté hlavě II dílu 2 se za den nabytí účinnosti tohoto zákona považuje 1. červenec 2024.
+>
+> (3) Ve věcech týkajících se záměrů podle tohoto zákona se v přechodném období postupuje podle dosavadních právních předpisů s výjimkou věcí týkajících se vyhrazených staveb uvedených v příloze č. 3 k tomuto zákonu, staveb s nimi souvisejících a staveb tvořících s nimi soubor staveb. Pro účely přechodných ustanovení v části dvanácté hlavě II dílu 4 se za den nabytí účinnosti tohoto zákona považuje 1. červenec 2024. Ve věcech týkajících se vyhrazených staveb uvedených v příloze č. 3 k tomuto zákonu, staveb s nimi souvisejících a staveb tvořících s nimi soubor staveb se postupuje podle tohoto zákona s výjimkou [[#§ 172|§ 172]], [[#§ 173|173]], § 185 odst. 3 písm. c) a části sedmé.
+>
+> (4) V přechodném období vykonává působnost Nejvyššího stavebního úřadu jako služebního úřadu Ministerstvo pro místní rozvoj a působnost stanovenou předsedovi Nejvyššího stavebního úřadu jako služebnímu orgánu státní tajemník v Ministerstvu pro místní rozvoj.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 172, § 173, § 185
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e581d5db758d1fec5d17 -->
 
 ### § 334b — Použití informačních systémů stavební správy v přechodném období
 
@@ -457,6 +796,70 @@ Zatímco § 334a definuje přechodné období z hlediska **procesního práva** 
 **Typicky rozhodné důkazy / podklady:** doklad o datu a způsobu zveřejnění (printscreen, metadata webu); sdělení adresy nadřízenému orgánu; stav funkčnosti NGÚP/ISSS; evidence ÚP činnosti (metadata dle odst. 9); záznam o zpětném vložení do NGÚP.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8ca25d2225fa86f25e2f generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 334b — Použití informačních systémů stavební správy v přechodném období
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Přechodným obdobím se pro účely odstavce 2 rozumí období do 31. prosince 2027 a pro účely odstavců 3 a 5 až 9 období do 30. června 2026.
+>
+> (2) V přechodném období se ve věcech stavebního řádu [[#§ 173|§ 173]], § 180 odst. 2, § 181 odst. 2 a [[#§ 3|3]], § 267 odst. 5, § 272 odst. 3 až 5 a § 273 odst. 2 nepoužijí.
+>
+> (3) V přechodném období se ve věcech územního plánování § 22 písm. c), § 23 odst. 2 písm. f), § 25 písm. f), § 105 odst. 2, § 108 odst. 3, § 113 odst. 6, § 128 odst. 2 věta druhá, § 130 odst. 3, § 267 odst. 5, § 269 odst. 4 a [[#§ 5|5]] a § 303 odst. 4 nepoužijí.
+>
+> (4) K výkonu působnosti orgánů územního plánování, stavebních úřadů a dotčených orgánů lze v přechodném období použít vedle informačních systémů stavební správy i jiné informační systémy. Orgán územního plánování, stavební úřad a dotčený orgán zajistí, aby na žádost ministerstva mohla být data z jiného informačního systému, která vznikla při výkonu jejich působnosti v přechodném období, předána ministerstvu za účelem jejich přenosu do informačních systémů stavební správy.
+>
+> (5) Seznamy podle § 42 odst. 4 a § 50 odst. 2 zveřejňuje ministerstvo v přechodném období způsobem umožňujícím dálkový přístup namísto jejich zveřejnění v národním geoportálu územního plánování.
+>
+> (6) Stanoví-li tento zákon, že ministerstvo nebo pořizovatel vkládá dokument do národního geoportálu územního plánování nebo zveřejňuje dokument v národním geoportálu územního plánování, je tato povinnost v přechodném období splněna, pokud je ministerstvo nebo pořizovatel zveřejní způsobem umožňujícím dálkový přístup s uvedením data jeho uveřejnění. Adresu zveřejnění zašle pořizovatel nadřízenému orgánu. V přechodném období nelze povinnost podle § 64 odst. 1 splnit vložením údajů o území do národního geoportálu územního plánování. Lhůta podle § 69 odst. 1 počíná běžet ode dne zveřejnění územní studie způsobem umožňujícím dálkový přístup.
+>
+> (7) Stanoví-li tento zákon, že ministerstvo nebo pořizovatel odkazuje na dokument vložený do národního geoportálu územního plánování, lze v přechodném období odkázat na dokument zveřejněný postupem podle odstavce 6.
+>
+> (8) Územně analytické podklady, územní studie, územně plánovací dokumentace, její úplné znění, vymezení zastavěného území, změna vymezení zastavěného území, úplné znění vymezení zastavěného území po jeho změně, územní opatření a informace o prověření stavební uzávěry podle [[#§ 326|§ 326]] se v přechodném období namísto jejich vložení do národního geoportálu územního plánování zveřejňují způsobem umožňujícím dálkový přístup. Pořizovatel vloží dokumenty podle věty první do národního geoportálu územního plánování do 31. prosince 2026.
+>
+> (9) Ministerstvo zajišťuje v přechodném období evidenci územně plánovací činnosti. Předmětem evidence územně plánovací činnosti jsou metadata o územně plánovací dokumentaci, zastavěném území, územním opatření a územní studii včetně průběhu jejich pořizování. Data do evidence vkládá příslušný pořizovatel. Součástí metadat je i údaj o adrese zveřejnění dokumentů podle odstavce 8 způsobem umožňujícím dálkový přístup.
+>
+> (10) Řízení a jiné postupy s výjimkou postupů podle části třetí zahájené od 1. července 2024 do konce přechodného období se dokončí podle odstavců 2 až 8.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 173, § 180, § 181, § 3, § 267, § 272, § 273, § 22, § 23, § 25, § 105, § 108, § 113, § 128, § 130, § 269, § 5, § 303, § 42, § 50, § 64, § 69, § 326
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8ca25d2225fa86f25e2f -->
 
 ## Část třináctá — Účinnost
 
@@ -553,3 +956,54 @@ Zákon č. 283/2021 Sb. je pozoruhodný tím, že jeho § 335 v aktuálním zně
 **Typicky rozhodné důkazy / podklady:** datum podání žádosti / učinění úkonu; datum vyhlášení zákona ve Sbírce (10. 8. 2021) a účinnosti novely č. 152/2023 Sb.; znění § 335 v rozhodné době; navazující ustanovení § 15–18, § 312–315, § 319, § 322, § 324, § 326; § 334a a § 334b.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=13f8c9150dba74b61e7c generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 335
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem 1. ledna 2024, s výjimkou ustanovení
+>
+> - a) [[#§ 36|§ 36]], [[#§ 319|319]], § 322 odst. 1 a [[#§ 3|3]], [[#§ 324|§ 324]] a § 326 odst. 1, která nabývají účinnosti dnem následujícím po dni jeho vyhlášení,
+>
+> - b) § 15 až 18, § 312 odst. 1 a [[#§ 7|7]], § 313 odst. 1 a [[#§ 2|2]] a § 315 odst. 1, která nabývají účinnosti dnem 1. ledna 2022,
+>
+> - c) § 312 odst. 4, které nabývá účinnosti dnem 1. ledna 2023.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 36, § 319, § 322, § 3, § 324, § 326, § 15, § 312, § 7, § 313, § 2, § 315
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=13f8c9150dba74b61e7c -->

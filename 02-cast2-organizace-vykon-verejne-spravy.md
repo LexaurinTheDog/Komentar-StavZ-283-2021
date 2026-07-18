@@ -75,6 +75,52 @@ Zákon v § 15 nerozlišuje, zda jde o působnost přenesenou nebo samostatnou; 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b4c7613cfec761862571 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 15 — Obecné ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> Působnost podle tohoto zákona vykonávají vláda, Ministerstvo pro místní rozvoj (dále jen „ministerstvo“), orgány územního plánování, stavební úřady, obce, a kraje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b4c7613cfec761862571 -->
+
 ### § 16 — Obec a kraj
 
 > **§ 16**
@@ -130,6 +176,52 @@ Systematicky § 16 zakotvuje samosprávnou odpovědnost za aktuálnost územně 
 **Typicky rozhodné důkazy / podklady:** platná územně plánovací dokumentace a datum jejího vydání, zpráva o jejím uplatňování, podklady o změnách v území (dopravní, demografické, ekologické), nadřazená dokumentace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b480aee6520ca112041c generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 16 — Obec a kraj
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> Obec a kraj soustavně sledují uplatňování jimi vydané územně plánovací dokumentace a vyhodnocují je podle tohoto zákona. Dojde-li ke změně podmínek, za kterých byla územně plánovací dokumentace vydána, pořídí změnu příslušné územně plánovací dokumentace.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b480aee6520ca112041c -->
 
 ### § 17 — Dopravní a energetický stavební úřad
 
@@ -202,6 +294,60 @@ Podrobné vymezení věcné působnosti DESÚ je rozvedeno v § 33 (Hlava III), 
 **Typicky rozhodné důkazy / podklady:** technická dokumentace stavby a její zařazení dle přílohy č. 3, vyhláška Ministerstva dopravy o územních pracovištích, doklad o postoupení podání, případné určení příslušnosti nadřízeným orgánem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3d8e0bd88394c5776676 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 17 — Dopravní a energetický stavební úřad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Dopravní a energetický stavební úřad je správním úřadem s celostátní působností ve věcech stavebního řádu podřízený Ministerstvu dopravy.
+>
+> (2) Sídlem Dopravního a energetického stavebního úřadu je Praha.
+>
+> (3) Územní pracoviště Dopravního a energetického stavebního úřadu stanoví Ministerstvo dopravy vyhláškou.
+>
+> (4) V čele Dopravního a energetického stavebního úřadu stojí ředitel. Pro účely zákona [[o státní službě|o státní službě]] je Ministerstvo dopravy bezprostředně nadřízeným správním úřadem Dopravního a energetického stavebního úřadu.
+>
+> (5) Výběr, jmenování a odvolání ředitele se řídí zákonem [[o státní službě|o státní službě]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3d8e0bd88394c5776676 -->
 
 ### § 18 — Součinnost orgánů veřejné správy
 
@@ -284,6 +430,58 @@ Odst. 4 zakládá zvláštní povinnost dotčených orgánů podílet se na **ko
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=38437fa8ff48286dabed generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 18 — Součinnost orgánů veřejné správy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Orgány územního plánování a stavební úřady postupují při výkonu své působnosti ve vzájemné součinnosti s dotčenými orgány chránícími veřejné zájmy podle jiných právních předpisů.
+>
+> (2) Stavební úřad projednává s dotčenými orgány jimi vydaná vyjádření a závazná stanoviska. Za účelem projednání vyjádření a závazných stanovisek nebo odstranění rozporů může stavební úřad svolat společné jednání s dotčenými orgány. Společné jednání je neveřejné a o jeho průběhu a závěrech se sepisuje protokol. Stavební úřad oznámí dotčeným orgánům jeho konání nejméně 5 dnů předem. Je-li to účelné, přizve stavební úřad ke společnému jednání stavebníka a ostatní účastníky řízení. V takovém případě nařídí stavební úřad společné jednání jako ústní jednání.
+>
+> (3) Nedojde-li postupem podle odstavce 2 k odstranění rozporu mezi stavebním úřadem a dotčenými orgány, jakož i mezi dotčenými orgány navzájem, postupuje se podle [[správního řádu|správního řádu]].
+>
+> (4) Stanoví-li dotčené orgány ve svém vyjádření nebo závazném stanovisku podmínky, které se staly součástí rozhodnutí stavebního úřadu, kontrolují v součinnosti se stavebním úřadem jejich dodržování.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=38437fa8ff48286dabed -->
+
 ## Hlava II — Působnost ve věcech územního plánování
 
 > Hlava II (§§ 19–29) systematicky vymezuje **celou soustavu orgánů územního plánování** — od vlády a ministerstva přes krajské a obecní orgány až po speciální subjekty (Ministerstvo obrany pro vojenské újezdy, Ústav územního rozvoje). Zákon v § 19 odst. 1 zavádí pojem „orgány územního plánování" jako technický zastřešující termín pro čtyři kategorie: ministerstvo, Ministerstvo obrany, úřady územního plánování a kvalifikované obecní úřady. Podrobná regulace nástrojů územního plánování (politika územního rozvoje, zásady územního rozvoje, územní plány, regulační plány, územně plánovací podklady, územní opatření) je předmětem části třetí — viz [03-cast3-uzemni-planovani-cile-obecna.md](03-cast3-uzemni-planovani-cile-obecna.md).
@@ -356,6 +554,64 @@ Odst. 3 doplňuje výčet o samosprávné orgány — zastupitelstva a rady — 
 **Typicky rozhodné důkazy / podklady:** potvrzení o splnění kvalifikačních předpokladů, usnesení zastupitelstva o pořízení a o vydání dokumentace, doklad o tom, který úřad zajišťoval pořizování.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b47d1a9daf1d7ec3acdc generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 19 — Obecná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Působnost ve věcech územního plánování vykonávají vláda a orgány územního plánování, kterými jsou
+>
+> - a) ministerstvo,
+>
+> - b) Ministerstvo obrany,
+>
+> - c) úřady územního plánování a
+>
+> - d) obecní úřad, který získal potvrzení o zajištění splnění kvalifikačních požadavků pro výkon územně plánovací činnosti.
+>
+> (2) Úřady územního plánování jsou obecní úřady obcí s rozšířenou působností a krajské úřady.
+>
+> (3) Působnost ve věcech územního plánování vykonávají dále zastupitelstvo obce, zastupitelstvo kraje, rada obce a rada kraje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b47d1a9daf1d7ec3acdc -->
 
 ### § 20 — Vláda
 
@@ -432,6 +688,68 @@ Vydávání **územního rozvojového plánu** (písm. e) je nejdůležitější
 **Typicky rozhodné důkazy / podklady:** text územního rozvojového plánu a jeho odůvodnění, doklad o vypořádání připomínek kraje, jednací řád vlády a usnesení o vydání, podklady prokazující dotčení konkrétního pozemku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=28480fbd521dbfbb6d43 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 20 — Vláda
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> Vláda
+>
+> - a) schvaluje politiku architektury a stavební kultury,
+>
+> - b) rozhoduje o pořízení politiky územního rozvoje,
+>
+> - c) schvaluje politiku územního rozvoje,
+>
+> - d) projednává a schvaluje zprávu o plnění politiky územního rozvoje a politiky architektury a stavební kultury,
+>
+> - e) vydává územní rozvojový plán,
+>
+> - f) projednává a schvaluje zprávu o uplatňování územního rozvojového plánu,
+>
+> - g) vydává územní opatření o stavební uzávěře, jedná-li se o změny v území celostátního významu,
+>
+> - h) vydává územní opatření o asanaci území, ovlivní-li svým významem, rozsahem nebo využitím území více krajů nebo států.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=28480fbd521dbfbb6d43 -->
 
 ### § 21 — Ministerstvo
 
@@ -518,6 +836,74 @@ Zákon svěřuje ministerstvu vedení a správu **národního geoportálu územn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bed638dfa7d4202e9ca0 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 21 — Ministerstvo
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo je nadřízeným správním orgánem krajských úřadů jako úřadů územního plánování.
+>
+> (2) Ministerstvo
+>
+> - a) vykonává kontrolu ve věcech územního plánování,
+>
+> - b) pořizuje politiku architektury a stavební kultury,
+>
+> - c) pořizuje politiku územního rozvoje,
+>
+> - d) pořizuje územní rozvojový plán,
+>
+> - e) pořizuje územně plánovací podklady v podrobnosti a rozsahu nezbytném pro pořizování politiky územního rozvoje a územního rozvojového plánu, popřípadě pro plnění dalších svých úkolů,
+>
+> - f) pořizuje územní opatření o stavební uzávěře, jedná-li se o změny v území celostátního významu,
+>
+> - g) pořizuje územní opatření o asanaci území, ovlivní-li svým významem, rozsahem nebo využitím území více krajů nebo států,
+>
+> - h) vede národní geoportál územního plánování a vkládá do něj data,
+>
+> - i) zajišťuje metodickou podporu uplatňování soudobých poznatků vědy a techniky a metodicky sjednocuje výkladovou a aplikační činnost krajských úřadů a obecních úřadů v oblasti územního plánování, urbanismu a architektury,
+>
+> - j) vykonává další činnosti podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bed638dfa7d4202e9ca0 -->
+
 ### § 22 — Ministerstvo obrany
 
 > **§ 22**
@@ -577,6 +963,58 @@ Zároveň je Ministerstvo obrany povinno vkládat data do národního geoportál
 **Typicky rozhodné důkazy / podklady:** vymezení vojenského újezdu a jeho hranic, katastrální zařazení pozemků, dokumentace územního plánu/regulačního plánu pro újezd, výpis z národního geoportálu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f0a0d607ae39547c6314 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 22 — Ministerstvo obrany
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> Ministerstvo obrany pro území vojenských újezdů
+>
+> - a) pořizuje a vydává územní plán a regulační plán,
+>
+> - b) pořizuje územně plánovací podklady v podrobnosti a rozsahu nezbytném pro pořizování územních plánů, regulačních plánů, popřípadě pro další územně plánovací činnost Ministerstva obrany,
+>
+> - c) vkládá data do národního geoportálu územního plánování.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f0a0d607ae39547c6314 -->
 
 ### § 23 — Krajský úřad
 
@@ -652,6 +1090,70 @@ Krajský úřad jako garant odborné způsobilosti územně plánovací agendy v
 **Typicky rozhodné důkazy / podklady:** žádost o potvrzení a doklady o kvalifikaci úředníků, rozhodnutí ORP a označení jeho role, organizační zajištění územně plánovací činnosti obce, spis pro odvolací řízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=afa166b14a4bf579d1f0 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 23 — Krajský úřad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Krajský úřad je nadřízeným správním orgánem obecních úřadů obcí s rozšířenou působností jako úřadů územního plánování a obecních úřadů podle [[#§ 26|§ 26]].
+>
+> (2) Krajský úřad jako úřad územního plánování
+>
+> - a) vykonává kontrolu ve věcech územního plánování,
+>
+> - b) pořizuje zásady územního rozvoje,
+>
+> - c) pořizuje územně plánovací podklady v podrobnosti a rozsahu nezbytném pro pořizování zásad územního rozvoje, popřípadě pro další územně plánovací činnost kraje,
+>
+> - d) pořizuje územní opatření o stavební uzávěře, jedná-li se o změny v území nadmístního významu,
+>
+> - e) pořizuje územní opatření o asanaci území, ovlivní-li svým významem, rozsahem nebo využitím území více obcí,
+>
+> - f) vkládá data do národního geoportálu územního plánování,
+>
+> - g) vydává potvrzení o splnění kvalifikačních předpokladů pro výkon územně plánovací činnosti,
+>
+> - h) vykonává další činnosti podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 26
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=afa166b14a4bf579d1f0 -->
 
 ### § 24 — Zastupitelstvo kraje a rada kraje
 
@@ -729,6 +1231,74 @@ Rada kraje má slabší územně plánovací pravomoci: uplatňuje připomínky 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9738ff89a3de53e50f34 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 24 — Zastupitelstvo kraje a rada kraje
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Zastupitelstvo kraje
+>
+> - a) rozhoduje o pořízení zásad územního rozvoje,
+>
+> - b) schvaluje zadání zásad územního rozvoje,
+>
+> - c) schvaluje návrh výběru nejvhodnější varianty v návrhu zásad územního rozvoje,
+>
+> - d) vydává zásady územního rozvoje,
+>
+> - e) projednává a schvaluje zprávu o uplatňování zásad územního rozvoje.
+>
+> (2) Rada kraje
+>
+> - a) uplatňuje připomínky k návrhu politiky územního rozvoje a územního rozvojového plánu a zásad územního rozvoje sousedního kraje,
+>
+> - b) uplatňuje připomínky k návrhu územního opatření, který pořizuje ministerstvo a dotýká se území kraje,
+>
+> - c) rozhoduje o pořízení územního opatření o stavební uzávěře a asanaci území, k jejichž pořízení je příslušný krajský úřad,
+>
+> - d) vydává územní opatření o stavební uzávěře a asanaci území, k jejichž pořízení je příslušný krajský úřad,
+>
+> - e) podává podnět k pořízení změny politiky územního rozvoje, změny územního rozvojového plánu, změny územního plánu nebo změny regulačního plánu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9738ff89a3de53e50f34 -->
+
 ### § 25 — Obecní úřad obce s rozšířenou působností
 
 > **§ 25**
@@ -795,6 +1365,66 @@ Zvláštní kompetencí je vydávání **vymezení zastavěného území** (pís
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4e4d88d44fc2e3566408 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 25 — Obecní úřad obce s rozšířenou působností
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> Obecní úřad obce s rozšířenou působností jako úřad územního plánování
+>
+> - a) pořizuje územní plán a regulační plán,
+>
+> - b) pořizuje územní plán, regulační plán a územní opatření na žádost obce,
+>
+> - c) pořizuje územně plánovací podklady pro svůj správní obvod v podrobnosti a rozsahu nezbytném pro pořizování územních plánů, regulačních plánů, popřípadě pro další územně plánovací činnost obcí,
+>
+> - d) pořizuje a vydává vymezení zastavěného území,
+>
+> - e) pořizuje územní opatření o stavební uzávěře a územní opatření o asanaci území pro území obce,
+>
+> - f) vkládá data do národního geoportálu územního plánování,
+>
+> - g) vykonává další činnosti podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4e4d88d44fc2e3566408 -->
+
 ### § 26 — Obecní úřad
 
 > **§ 26**
@@ -844,6 +1474,52 @@ Zvláštní kompetencí je vydávání **vymezení zastavěného území** (pís
 **Typicky rozhodné důkazy / podklady:** potvrzení krajského úřadu o kvalifikaci, doklady o autorizaci/zvláštní odborné způsobilosti úředníka, výčet pořizovaných nástrojů, pracovněprávní zajištění kvalifikované osoby.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c41607add16a3184781f generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 26 — Obecní úřad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> Obecní úřad, který získal potvrzení krajského úřadu o zajištění splnění kvalifikačních požadavků pro výkon územně plánovací činnosti, může vykonávat v přenesené působnosti působnost podle § 25 písm. a), e) a f) a pořizovat územní studii.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 25
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c41607add16a3184781f -->
 
 ### § 27 — Zastupitelstvo obce a rada obce
 
@@ -925,6 +1601,78 @@ Odst. 2 výslovně pamatuje na **obce bez rady** (zpravidla malé obce, kde se r
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=800e6cfc435ac7b1b722 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 27 — Zastupitelstvo obce a rada obce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Zastupitelstvo obce
+>
+> - a) rozhoduje o pořízení územního plánu a regulačního plánu,
+>
+> - b) schvaluje zadání územního plánu a regulačního plánu,
+>
+> - c) schvaluje návrh výběru nejvhodnější varianty v návrhu územního plánu a regulačního plánu,
+>
+> - d) vydává územní plán a regulační plán,
+>
+> - e) projednává a schvaluje zprávu o uplatňování územního plánu.
+>
+> (2) Rada obce a v obcích, kde se rada nevolí, zastupitelstvo obce
+>
+> - a) uplatňuje připomínky k návrhu politiky územního rozvoje, územního rozvojového plánu, zásad územního rozvoje a územního plánu sousední obce,
+>
+> - b) uplatňuje připomínky k návrhu vymezení zastavěného území pro území obce,
+>
+> - c) uplatňuje připomínky k návrhu územního opatření o asanaci území a územního opatření o stavební uzávěře, které pořizuje krajský úřad jako úřad územního plánování, nebo ministerstvo, a dotýkají se území obce,
+>
+> - d) rozhoduje o pořízení územního opatření o stavební uzávěře a o asanaci území pro území obce,
+>
+> - e) vydává územní opatření o stavební uzávěře a o asanaci území pro území obce,
+>
+> - f) rozhoduje o podání žádosti podle § 25 písm. b) anebo rozhoduje o uzavření smlouvy s osobou splňující předpoklady pro výkon územně plánovací činnosti podle § 46 odst. 2 písm. c),
+>
+> - g) rozhoduje o podání žádosti podle § 48 odst. 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 25, § 46, § 48
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=800e6cfc435ac7b1b722 -->
+
 ### § 28 — Působnost na území hlavního města Prahy
 
 > **§ 28**
@@ -981,6 +1729,54 @@ Tím zákon zachovává hierarchii nadřízenosti bez vytváření zvláštní k
 **Typicky rozhodné důkazy / podklady:** doklad o tom, který orgán dokumentaci pořizuje, statut hlavního města Prahy a vymezení působnosti městských částí, usnesení o pořízení územního plánu, spis pro odvolací řízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c77a4494969a483fa173 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 28 — Působnost na území hlavního města Prahy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Pořizuje-li územní plán pro území hlavního města Prahy Magistrát hlavního města Prahy, vykonává působnost krajského úřadu ministerstvo.
+>
+> (2) Pořizuje-li územní plán pro vymezenou část území hlavního města Prahy úřad městské části, vykonává působnost krajského úřadu Magistrát hlavního města Prahy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c77a4494969a483fa173 -->
 
 ### § 29 — Ústav územního rozvoje
 
@@ -1051,6 +1847,66 @@ Zákon v § 32 odst. 3 písm. b) dále umožňuje ministerstvu pověřit ÚÚR v
 **Typicky rozhodné důkazy / podklady:** zřizovací dokumentace ÚÚR, výstup ÚÚR a jeho označení (návrh/podklad), akt ministerstva o pořízení a usnesení vlády o vydání, doklad o případném pověření dle § 32 odst. 3 písm. b).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=83db4e1cd1604ff48d07 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 29 — Ústav územního rozvoje
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Ústav územního rozvoje se sídlem v Brně je organizační složkou státu a účetní jednotkou, pro kterou plní funkci zřizovatele ministerstvo.
+>
+> (2) Ústav územního rozvoje
+>
+> - a) provádí výzkum, publikační činnost a řeší koncepční otázky teorie a praxe v oboru územního plánování a stavebního řádu, stavební kultury a vystavěného prostředí, urbanismu a architektury,
+>
+> - b) zpracovává návrh politiky architektury a stavební kultury,
+>
+> - c) zpracovává návrh politiky územního rozvoje, jejích změn a úplné znění politiky územního rozvoje po její poslední změně,
+>
+> - d) zpracovává návrh územního rozvojového plánu, jeho změn a úplné znění územního rozvojového plánu po jeho změně,
+>
+> - e) zpracovává návrh územně plánovacích podkladů pro území státu,
+>
+> - f) vykonává další činnosti, kterými ho pověří ministerstvo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=83db4e1cd1604ff48d07 -->
 
 ## Hlava III — Působnost ve věcech stavebního řádu
 
@@ -1159,6 +2015,80 @@ Odst. 6 uzavírá výčet jiných stavebních úřadů na **Ministerstvo obrany,
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=28c95c5a067c7d15c5f0 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 30 — Obecná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Působnost ve věcech stavebního řádu vykonávají stavební úřady, kterými jsou
+>
+> - a) ministerstvo,
+>
+> - b) Ministerstvo dopravy,
+>
+> - c) Ministerstvo průmyslu a obchodu,
+>
+> - d) Dopravní a energetický stavební úřad,
+>
+> - e) krajské stavební úřady,
+>
+> - f) obecní stavební úřady a
+>
+> - g) jiné stavební úřady3).
+>
+> (2) Krajskými stavebními úřady jsou krajské úřady.
+>
+> (3) Obecními stavebními úřady jsou
+>
+> - a) obecní úřady obcí s rozšířenou působností a
+>
+> - b) pověřené obecní úřady a obecní úřady, které stanoví ministerstvo prováděcím právním předpisem.
+>
+> (4) Správní obvody obecních stavebních úřadů stanoví ministerstvo prováděcím právním předpisem. Stanovení obecního stavebního úřadu nebo jeho zrušení, popřípadě změnu jeho správního obvodu, lze provést pouze k počátku kalendářního roku.
+>
+> (5) Dojde-li ke stanovení obecního stavebního úřadu nebo k jeho zrušení, popřípadě ke změně jeho správního obvodu, stanoví ministerstvo v prováděcím právním předpisu, který obecní stavební úřad dokončí neskončená správní řízení, a provede spisovou rozluku s rušeným obecním stavebním úřadem.
+>
+> (6) Jinými stavebními úřady jsou Ministerstvo obrany, Ministerstvo vnitra a Ministerstvo spravedlnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=28c95c5a067c7d15c5f0 -->
+
 ### § 30a — Kvalifikační požadavky pro výkon činnosti na úseku stavebního řádu
 
 > **§ 30a**
@@ -1243,6 +2173,74 @@ Odst. 5 zavádí přechodný mechanismus: úředník, který kvalifikační pož
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7e707fab625ba7ea3a51 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 30a — Kvalifikační požadavky pro výkon činnosti na úseku stavebního řádu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Krajské stavební úřady a obecní stavební úřady vykonávají činnost na úseku stavebního řádu prostřednictvím úředníků6) splňujících kvalifikační požadavky pro výkon činnosti na úseku stavebního řádu.
+>
+> (2) Kvalifikační požadavky pro výkon činnosti na úseku stavebního řádu splňuje fyzická osoba, která
+>
+> - a) má osvědčení zvláštní odborné způsobilosti pro správní činnost [[stavební řád|stavební řád]] a vyvlastnění podle jiného právního předpisu7), nebo osvědčení o úspěšném vykonání úřednické zkoušky pro obor státní služby, jehož součástí je [[stavební řád|stavební řád]] a
+>
+> - b) splňuje kvalifikační požadavky vzdělání podle tohoto zákona.
+>
+> (3) Ustanovení jiného právního předpisu o vydávání osvědčení o uznání rovnocennosti vzdělání8) se pro podmínky podle odstavce 2 nepoužije.
+>
+> (4) Kvalifikační požadavky vzdělání podle odstavce 2 písm. b) splňuje
+>
+> - a) autorizovaný architekt, kterému byla udělena autorizace pro obor architektura nebo bez specifikace oboru podle autorizačního zákona,
+>
+> - b) autorizovaný inženýr nebo autorizovaný technik, kterému byla udělena autorizace pro obor pozemní stavby, dopravní stavby, stavby vodního hospodářství a krajinného inženýrství, mosty a inženýrské konstrukce, statika a dynamika staveb nebo městské inženýrství,
+>
+> - c) fyzická osoba, která má vysokoškolské vzdělání ve studijním programu náležejícím do oblasti vzdělávání architektura a urbanismus, stavebnictví, ekonomické obory, doprava, biologie, ekologie a životní prostředí, lesnictví a dřevařství, vědy o zemi, nebo právo,
+>
+> - d) fyzická osoba, která má vyšší odborné vzdělání v oboru stavebnictví, geodézie a kartografie, obecně právní činnost, veřejnosprávní činnost, nebo doprava, nebo
+>
+> - e) fyzická osoba, která má střední vzdělání s maturitní zkouškou v oboru stavebnictví, geodézie a katastr nemovitostí, nebo veřejnosprávní činnost.
+>
+> (5) Úředník nesplňující kvalifikační požadavky může vykonávat činnost stavebního úřadu na úseku stavebního řádu, pokud je zajištěno, že bude do doby splnění uvedených požadavků vykonávat tuto činnost pod odborným vedením úředníka splňujícího kvalifikační požadavky pro výkon činnosti na úseku stavebního řádu, nejvýše však po dobu 3 let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7e707fab625ba7ea3a51 -->
+
 ### § 31 — Metodická činnost
 
 > **§ 31**
@@ -1298,6 +2296,54 @@ Odst. 2 vymezuje oblast, v níž se metodická působnost **přesouvá** od MMR 
 **Typicky rozhodné důkazy / podklady:** relevantní metodický pokyn (a jeho vydavatel), zařazení stavby do kategorie (dopravní/letecká × ostatní), zákonné a prováděcí požadavky na výstavbu, odůvodnění rozhodnutí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7ae7775ec296ba234b7b generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 31 — Metodická činnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo metodicky sjednocuje výkon působnosti stavebních úřadů v oblasti stavebního řádu a požadavků na výstavbu.
+>
+> (2) Ministerstvo dopravy metodicky sjednocuje u staveb dálnic, silnic, místních komunikací a veřejně přístupných účelových komunikací, staveb drah a civilních leteckých staveb výkon působnosti stavebních úřadů v oblasti požadavků na výstavbu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7ae7775ec296ba234b7b -->
 
 ### § 32 — Ministerstvo
 
@@ -1381,6 +2427,76 @@ Odst. 4 zakládá výslovnou **subsidiární klauzuli**: ministerstvo nevykonáv
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9ee396cd50587dd16052 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 32 — Ministerstvo
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo je nadřízeným správním orgánem krajského stavebního úřadu, není-li jeho nadřízeným správním orgánem Dopravní a energetický stavební úřad.
+>
+> (2) Ministerstvo
+>
+> - a) vede systém stavebně technické prevence, v němž sleduje a analyzuje závažné nebo opakující se závady nebo havárie staveb, kterým je třeba ve veřejném zájmu předcházet, a navrhuje opatření k zabránění jejich opakování,
+>
+> - b) sleduje účinnost technických předpisů pro stavby a dbá o zlepšování jejich úrovně,
+>
+> - c) navrhuje úpravy požadavků na stavby, jejich části, funkce, prvky a stavební výrobky a podává podněty k úpravě českých technických norem nebo certifikace stavebních výrobků anebo k jiným stavebně technickým opatřením,
+>
+> - d) připravuje seznam závazných českých technických norem nebo jejich částí obsahujících podrobnější technické požadavky na stavby, které určí Úřad pro technickou normalizaci, metrologii a státní zkušebnictví jako určené technické normy ve stavebnictví a oznámí je ve Věstníku podle jiného právního předpisu s výjimkou norem stanovených prováděcím právním předpisem územního samosprávného celku,
+>
+> - e) zajišťuje bezplatný přístup k určeným technickým normám ve stavebnictví podle jiného právního předpisu s výjimkou norem stanovených prováděcím právním předpisem územního samosprávného celku,
+>
+> - f) vykonává kontrolu ve věcech stavebního řádu,
+>
+> - g) vykonává kontrolu nad činností autorizovaných inspektorů.
+>
+> (3) Ministerstvo může
+>
+> - a) vyhradit si zjišťování stavebně technických příčin havárií staveb nebo účast při něm, pokud se svým rozsahem nebo opakovanými důsledky ve značné míře dotýkají veřejných zájmů,
+>
+> - b) pověřit vedením systému stavebně technické prevence Ústav územního rozvoje.
+>
+> (4) Ministerstvo nevykonává působnost podle tohoto zákona v rozsahu, v jakém ji vykonává Ministerstvo dopravy nebo Ministerstvo průmyslu a obchodu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9ee396cd50587dd16052 -->
+
 ### § 32a — Ministerstvo dopravy
 
 > **§ 32a**
@@ -1447,6 +2563,64 @@ Na rozdíl od ministerstva (MMR), které má obecnou řídicí, metodickou a kon
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3228f84afc1ed7a4c811 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 32a — Ministerstvo dopravy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo dopravy je nadřízeným správním orgánem Dopravního a energetického stavebního úřadu, není-li jeho nadřízeným správním orgánem Ministerstvo průmyslu a obchodu.
+>
+> (2) Ministerstvo dopravy ve věcech staveb dálnic, silnic, místních komunikací a veřejně přístupných účelových komunikací, staveb drah a civilních leteckých staveb
+>
+> - a) sleduje účinnost technických předpisů pro stavby a dbá o zlepšování jejich úrovně,
+>
+> - b) navrhuje úpravy požadavků na stavby, jejich části, funkce, prvky a stavební výrobky a podává podněty k úpravě českých technických norem nebo certifikace stavebních výrobků anebo k jiným stavebně technickým opatřením,
+>
+> - c) připravuje seznam závazných českých technických norem nebo jejich částí obsahujících podrobnější technické požadavky na stavby, které určí Úřad pro technickou normalizaci, metrologii a státní zkušebnictví jako určené technické normy ve stavebnictví a oznámí je ve Věstníku podle jiného právního předpisu s výjimkou norem stanovených prováděcím právním předpisem územního samosprávného celku,
+>
+> - d) zajišťuje bezplatný přístup k určeným technickým normám ve stavebnictví podle jiného právního předpisu s výjimkou norem stanovených prováděcím právním předpisem územního samosprávného celku,
+>
+> - e) vykonává kontrolu ve věcech stavebního řádu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3228f84afc1ed7a4c811 -->
+
 ### § 32b — Ministerstvo průmyslu a obchodu
 
 > **§ 32b**
@@ -1512,6 +2686,64 @@ Na rozdíl od MMR (§ 32 odst. 2) nebo Ministerstva dopravy (§ 32a odst. 2), kt
 **Typicky rozhodné důkazy / podklady:** technické zařazení stavby a její podřazení pod přílohu č. 3, rozhodnutí DESÚ, energetické povolení/licence dle energetického zákona, spis pro odvolací řízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d8e4923f0a29adf3052a generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 32b — Ministerstvo průmyslu a obchodu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo průmyslu a obchodu je nadřízeným správním orgánem Dopravního a energetického stavebního úřadu ve věcech
+>
+> - a) vyhrazených staveb uvedených v příloze č. 3 písm. d) až p) k tomuto zákonu, včetně staveb souvisejících,
+>
+> - b) staveb uvedených v § 34 písm. a) bodu 3,
+>
+> - c) staveb technické infrastruktury pro energetiku a elektronické komunikace.
+>
+> (2) Ministerstvo průmyslu a obchodu u staveb podle odstavce 1
+>
+> - a) sleduje účinnost technických předpisů pro stavby a dbá o zlepšování jejich úrovně,
+>
+> - b) vykonává kontrolu ve věcech stavebního řádu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 34
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d8e4923f0a29adf3052a -->
 
 ### § 33 — Dopravní a energetický stavební úřad
 
@@ -1592,6 +2824,70 @@ Odst. 3 stanoví podmínku pro opuštění příslušnosti DESÚ pro tzv. **souv
 **Typicky rozhodné důkazy / podklady:** povolení vyhrazené a související stavby a jejich účel užívání, doklad o (ne)provedení změny účelu užívání, zařazení stavby dle přílohy č. 3, případné rámcové povolení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3c551278505ef9543935 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 33 — Dopravní a energetický stavební úřad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Dopravní a energetický stavební úřad je nadřízeným správním orgánem krajského stavebního úřadu ve věcech staveb
+>
+> - a) silnic, místních komunikací a veřejně přístupných účelových komunikací,
+>
+> - b) uvedených v § 34 písm. a) bodu 3,
+>
+> - c) technické infrastruktury pro energetiku a elektronické komunikace.
+>
+> (2) Dopravní a energetický stavební úřad
+>
+> - a) vykonává působnost stavebního úřadu ve věcech vyhrazených staveb,
+>
+> - b) vykonává působnost stavebního úřadu ve věcech staveb souvisejících s vyhrazenými stavbami, jež by jinak byly v působnosti krajského stavebního úřadu nebo obecního stavebního úřadu,
+>
+> - c) vydává rámcové povolení pro stavby jaderného zařízení a stavby související, nacházející se uvnitř i vně areálu jaderného zařízení, a
+>
+> - d) vykonává kontrolu ve věcech stavebního řádu.
+>
+> (3) K přechodu související stavby do působnosti krajského úřadu nebo obecního stavebního úřadu se vyžaduje změna účelu užívání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 34
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3c551278505ef9543935 -->
 
 ### § 34 — Krajský stavební úřad
 
@@ -1683,6 +2979,80 @@ Krajský stavební úřad vydává **rámcové povolení** pro stavby v působno
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=065f7a9770c32d466fd0 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 34 — Krajský stavební úřad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> Krajský stavební úřad
+>
+> - a) vykonává působnost stavebního úřadu ve věcech
+>
+> - 1. záměrů EIA,
+>
+> - 2. silnic I. třídy,
+>
+> - 3. výroben z obnovitelných zdrojů energie neuvedených v příloze č. 3 k tomuto zákonu,
+>
+> - 4. vodních děl na hraničních vodách,
+>
+> - 5. čistíren odpadních vod sloužících k vypouštění odpadních vod do vod povrchových ze zdrojů znečištění o velikosti 10 000 ekvivalentních obyvatel nebo více,
+>
+> - 6. vodních nádrží s celkovým objemem nad 1 000 000 m3 nebo s výškou vzdutí nad 10 m ode dna základové výpusti,
+>
+> - 7. vodních děl sloužících k vypouštění odpadních vod z těžby a zpracování uranových rud a jaderných elektráren a odpadních vod s obsahem zvlášť nebezpečných závadných nebo nebezpečných závadných látek do vod povrchových a k vypouštění odpadních vod s obsahem zvlášť nebezpečné závadné látky nebo prioritní nebezpečné látky do kanalizace s výjimkou případů, kdy je instalováno zařízení s dostatečnou účinností podle jiného právního předpisu,
+>
+> - 8. vodních děl sloužících k čerpání znečištěných podzemních vod za účelem snížení jejich znečištění a jejich následné vypouštění do těchto vod, popřípadě do vod povrchových,
+>
+> - 9. staveb a zařízení distribuční soustavy o napětí 110 kV včetně transformovny 110 kV a staveb a zařízení pro ukládání energie připojených do distribuční soustavy s napětím 110 kV,
+>
+> - 10. staveb a zařízení distribuční soustavy plynu o tlakové hladině 4 až 40 barů včetně souvisejících technologických objektů,
+>
+> u kterých nevykonává působnost Dopravní a energetický stavební úřad nebo jiný stavební úřad,
+>
+> - b) vydává rámcové povolení pro stavby v působnosti jiného stavebního úřadu, včetně staveb souvisejících, a
+>
+> - c) vykonává kontrolu ve věcech stavebního řádu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=065f7a9770c32d466fd0 -->
+
 ### § 34a — Obecní stavební úřad
 
 > **§ 34a**
@@ -1749,6 +3119,58 @@ Výslovné vyloučení § 37 odst. 3 pro tyto kategorie je procesní zárukou: u
 **Typicky rozhodné důkazy / podklady:** dokumentace souboru staveb a vymezení stavby hlavní, zařazení jednotlivých prvků (komunikace, technická infrastruktura, vodní dílo), doklad o správním obvodu úřadů, případné postoupení podání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d0809bba73f7ba64b7e8 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 34a — Obecní stavební úřad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Obecní stavební úřad
+>
+> - a) vykonává působnost stavebního úřadu ve věcech záměrů, u kterých nevykonává působnost Dopravní a energetický stavební úřad, krajský stavební úřad nebo jiný stavební úřad,
+>
+> - b) vykonává kontrolu ve věcech stavebního řádu.
+>
+> (2) Působnost stavebního úřadu ve věcech záměru bytového domu, silnice II. a III. třídy, místní komunikace, veřejně přístupné účelové komunikace, technické infrastruktury, která je součástí distribuční soustavy v elektroenergetice nebo plynárenství, sítí elektronických komunikací, staveb a zařízení pro ukládání energie, vodního díla, u něhož nevykonává působnost stavebního úřadu krajský stavební úřad, a souboru staveb, jehož jsou tyto záměry součástí, vykonává obecní stavební úřad obce s rozšířenou působností; § 37 odst. 3 se pro určení příslušnosti stavebního úřadu nepoužije.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 37
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d0809bba73f7ba64b7e8 -->
 
 ### § 35 — Jiné stavební úřady
 
@@ -1832,6 +3254,58 @@ Odst. 4 opakuje pravidlo totožné s § 33 odst. 3: přechod stavby z přísluš
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=22ad819e1410b8b3a549 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 35 — Jiné stavební úřady
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo obrany vykonává působnost stavebního úřadu pro území vojenských újezdů a u záměrů, které slouží nebo mají sloužit k zajišťování obrany státu5), realizovaných Ministerstvem obrany, jím zřízenou nebo založenou právnickou osobou nebo, u staveb a záměrů, které slouží nebo mají sloužit k plnění úkolů Národního úřadu pro kybernetickou a informační bezpečnost, s výjimkou vydání rámcového povolení.
+>
+> (2) Ministerstvo vnitra vykonává působnost stavebního úřadu u záměrů pro bezpečnost státu, kterými se rozumí stavby sloužící k plnění úkolů Ministerstva vnitra nebo jím zřízené organizační složky státu, Policie České republiky, Policejní akademie České republiky, Hasičského záchranného sboru České republiky, Úřadu pro zahraniční styky a informace, Bezpečnostní informační služby a Národního bezpečnostního úřadu, s výjimkou staveb nebo jejich částí převážně užívaných pro účely bytové nebo rekreační. Do výkonu působnosti podle věty první nenáleží vydání rámcového povolení.
+>
+> (3) Ministerstvo spravedlnosti vykonává působnost stavebního úřadu u záměrů staveb pro účely Vězeňské služby České republiky a jejích organizačních jednotek, s výjimkou vydání rámcového povolení.
+>
+> (4) K přechodu stavby podle odstavců 1 až 3 do působnosti krajského úřadu nebo obecního stavebního úřadu se vyžaduje změna účelu užívání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=22ad819e1410b8b3a549 -->
+
 ## Hlava IV — Vymezená území
 
 > Hlava IV (§ 36) zakotvuje zvláštní institut **vymezených území** — specifických územních bloků vymezených z důvodu zajišťování obrany a bezpečnosti státu. Jde o komplementář k příslušnosti jiných stavebních úřadů z Hlavy III: zatímco § 35 řeší, kdo rozhoduje o konkrétních záměrech bezpečnostního nebo obranného charakteru, § 36 řeší zvláštní procesní vliv Ministerstva obrany a Ministerstva vnitra v územích, kde jsou dány zájmy obrany a bezpečnosti.
@@ -1911,6 +3385,62 @@ Odst. 3 zakládá zvláštní povinnost státu k náhradě: náklady nezbytných
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3b3dfbc5bd574c318b1f generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 36
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo obrany a Ministerstvo vnitra vymezí opatřením obecné povahy území, v němž v zájmu zajišťování obrany a bezpečnosti státu
+>
+> - a) vydává závazné stanovisko pro účely povolení záměru,
+>
+> - b) vydává vyjádření k návrhu zadání územně plánovací dokumentace a stanovisko k návrhu územně plánovací dokumentace nebo její změny, dotýká-li se vymezeného území, a
+>
+> - c) může se vyjádřit k nezbytným úpravám u již zřízených staveb nebo uplatnit požadavky na nezbytné úpravy.
+>
+> (2) Opatření obecné povahy podle odstavce 1 se vydává bez řízení o jeho návrhu a nabývá účinnosti dnem vyvěšení veřejné vyhlášky.
+>
+> (3) Náklady spojené s požadavky na nezbytné úpravy podle odstavce 1 písm. c) nese ministerstvo, které je uplatnilo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3b3dfbc5bd574c318b1f -->
+
 ## Hlava V — Společné ustanovení
 
 > Hlava V (§ 37) je poslední hlavou části druhé a plní funkci průřezového uzavíracího ustanovení. § 37 odst. 1 výslovně deklaruje přenesenou povahu výkonu stavebněsprávní a územně plánovací působnosti na sub-centrální úrovni; odst. 2 řeší mezery v příslušnosti (kompetenční spory); odst. 3 zavádí pravidlo „stavby hlavní" pro soubory staveb. Tato trojice pravidel doplňuje kompetence vymezené v předchozích hlavách a odstraňuje systémové mezery.
@@ -1989,3 +3519,52 @@ Výjimka z tohoto pravidla je výslovně zakotvena v § 34a odst. 2 — pro zám
 ---
 
 *Zpracováno podle konsolidovaného znění zákona č. 283/2021 Sb. ke dni 1. 1. 2026, reflektující změny provedené zákonem č. 152/2023 Sb.*
+
+<!-- LEGAL-REVISION:BEGIN id=5ce555e00c852298dca4 generator=2026-07-17.4 source_sha256=8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580 -->
+#### Revizní doplnění k § 37
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2021/283-2021 Zákon stavební zákon.md`; identifikátor verze: `SB-2021-00283_2026-01-01`; SHA-256: `8b89da1fd2bd3748864fd63d980e56b662222836616aa4fdd503b1963c5cc580`.
+
+##### Znění ustanovení
+
+> (1) Působnost stanovená tímto zákonem krajskému úřadu, obecnímu úřadu obce s rozšířenou působností a obecnímu úřadu je přenesenou působností.
+>
+> (2) V pochybnostech, který stavební úřad je příslušný ve věcech týkajících se záměru, určí příslušný stavební úřad nadřízený stavební úřad.
+>
+> (3) U souboru staveb se příslušnost stavebního úřadu k vydání povolení záměru řídí příslušností k povolení záměru stavby hlavní souboru staveb. Stavební úřad je příslušný k provedení všech úkonů, postupů a vydání rozhodnutí podle tohoto zákona pro všechny stavby souboru staveb.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5ce555e00c852298dca4 -->
